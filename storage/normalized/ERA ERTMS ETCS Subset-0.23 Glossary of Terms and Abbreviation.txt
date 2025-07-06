@@ -1,0 +1,104 @@
+---
+title: "ERTMS ETCS Subset-0.23 Glossary of Terms and Abbreviation"
+sourceName: "Official site of ERA (European Union Agency for Railways)"
+sourceUrl: "https://www.era.europa.eu/system/files/2023-09/index102_-_ATO_Glossary_v2-.pdf"
+regions:
+  - "EU"
+lastUpdated: "2025-07-06"
+collectedBy: "A. Piatrou"
+---
+
+AD — ETCS Automatic Driving Mode
+ARS — Automatic Route Setting
+ASPM — Automatic Stopping Point Management
+ASR — Additional Speed Restriction
+ATO-OB — ATO On-board
+ATO-TS — ATO Trackside
+ATS — Automatic Train Supervision
+ATSM — Automatic Train Stopping Management
+AV — ATO Available
+CBTC — Communication Based Train Control
+CCTV — Closed Circuit Television
+CO — ATO Configuration
+DAS — Driving Advisory System
+DE — ATO Disengaging
+EG — ATO Engaged
+EUG — ERTMS Users Group
+FA — ATO Failure
+GoA — Grade of Automation
+HS — Handshake
+HSAck — Handshake Acknowledgement
+HSRej — Handshake Rejected
+HSReq — Handshake Request
+ID — Identity
+IIS — Infrastructure [Passenger] Information System
+JP — Journey Profile
+JPAck — Journey Profile Acknowledgement
+JPReq — Journey Profile Request
+NA — ATO Not Available
+NP — ATO No Power
+OCC — Operation Control Centre
+OIS — On-board [Passenger] Information System
+ORD — On-board Recording Device
+PDIU — Platform Door Interface Unit
+PED — Platform Edge Doors
+PG — Platform Gates
+PIS — Passenger Information System
+PSD — Platform Screen Doors
+PTI — Platform / Train Interface
+RE — ATO Ready
+RST — Rolling Stock
+SP — Segment Profile
+SPReq — Segment Profile Request
+SSEM — Supervised Speed Envelope Management
+STR — Status Report
+TBL — Traction/Brake Lever
+TC — Temporary Constraint
+TDO — Train Door Operation
+TEN-T — Trans-European Transport Network
+TMS — Traffic Management System
+TP — Timing Point
+TRN — Train Running Number
+TS — Trackside
+TSI — Technical Specification for Interoperability
+TTSM — Timetable Speed Management
+ATO Area — The area where, for Grades of Automation (GoA) 2 to 4, Automatic Train Operation is possible, informed by real-time dynamic update of operational data via a telecommunications link between the ATO-OB and ATO-TS subsystems.
+ATO Disengaged — The status of the ATO-OB when it is not in EG, nor in DE State.
+ATO Engage Button — Input that permits the driver to request to start automatic driving when the ATO Engagement Conditions are fulfilled.
+ATO Fitted Train — A train that is fitted with an ATO-OB subsystem.
+ATO Inhibition Zone — The prevention of the ATO functionality over a defined area of the railway in the direction of travel. It may be in either or both directions of a bi-directional section of track.
+ATO On-board — The subsystem and set of automated non-safety-related driver functions, depending on the grade of automation.
+ATO Operated Train — A train that is fitted with an ATO-OB subsystem and this subsystem is operational.
+ATO Operational Speed Profile — The most energy efficient speed profile calculated by the ATO-OB that fulfils the Journey Profile and respects the ETCS safe braking envelope.
+ATO Trackside — A set of functions that interfaces with the necessary trackside systems which contain the operational data and infrastructure data that is required by the ATO-OB.
+Automatic Joining — An automatic process to couple two or more train consists.
+Automatic Splitting — An automatic process to separate a train into two or more individual consists.
+Automatic Train Operation — A method of operation in which different train operation tasks are automated, according to the Grade of Automation (GoA) level present, up to GoA 4 level, where the train is automatically controlled without the presence of staff on board. In the context of ERTMS, the terms “ATO” and “ERTMS/ATO” have the same meaning.
+Automatic Turnback — The functionality that allows trains to change direction for another journey which may include automatic unattended movement.
+Awake Train — This function is intended to prepare a train for operation.
+C-type Train — Vehicles with [c]ommon brake control in accordance with [RDB] (separate control of dynamic and train air brake is not possible for ATO-OB). Typically, this term includes EMUs, DMUs, railbuses or electric railcars.
+DAS Inhibition Zone — The prevention of the DAS functionality over a defined area of the railway in the direction of travel. It may be in either or both directions of a bi-directional section of track.
+Door Release — An external system command which permits the door open command. A release may include mechanical, electromechanical or electronic parts.
+Dwell Time — Time during which a train is stopped at a Stopping Point, it means the time period between wheel stop and wheel start.
+Grade of Automation — Automation level of train operation, in which a train can be operated, resulting from sharing responsibility for given basic functions of train operation between operations staff and system. [RD5] Note: Modified to fit mainline (removed Urban Guided Transport).
+Journey — Scheduled movement of a vehicle along a single route. [RD2]
+Journey Profile — The Journey Profile describes the information needed by the train to be aware about the path the train should take, timetable information and temporary constraints.
+Minimum Dwell Time — Minimum allowed value of dwell time, defined for each Stopping Point included in the Journey Profile, to be considered by the ATO-OB before departure. The minimum dwell time is applied during normal or degraded operation to aid service recovery.
+Non-ATO Train — Non-ATO equipped trains and trains with inoperative ATO-OB equipment.
+Passing Point — A Timing Point defined in the Segment Profile, where the train is planned to pass within a given time window defined in the Journey Profile.
+Platform Barrier System — The system that keeps passengers at a safe distance from the platform edge, outside of boarding times.
+Remaining Dwell Time — The amount of time left before a train resume moving.
+S-type Train — Vehicles with independently ([s]eparately) controlled dynamic and train air brakes as an EN/UIC-brake system in accordance with [RD9], chapter 5.4. Typically, a locomotive hauling a train consisting of coaches.
+Segment Profile — A Segment Profile is a one-dimensional object that describes a single and consecutive section of track and corresponds to the Track Centreline of that section of track. A Segment Profile has a Start Point and an End Point, which correspond to the boundary points of the section of Track Centreline of that Segment Profile.
+Steep incline — Such incline in which the holding brake force is not sufficient to maintain the train stationary.
+Steep slope — Such downward slope in which the holding brake force is not sufficient to maintain the train stationary.
+Stopping Point — A Timing Point defined in the Segment Profile where the train is planned to stop within a given time window defined in the Journey Profile, usually to carry out a specific activity such as allowing passengers to enter and leave the train.
+Stopping Point Skip — The functionality that enables a train to continue driving without stopping at a Timing Point that had previously been scheduled as a Stopping Point.
+Timing Point — A location and stopping accuracy defined in the Segment Profile for which a type (Stopping or Passing Point) and specific time is identified in the Journey Profile. This time may be an arrival time, a departure time, or in the case of a train not scheduled to stop at that location, the passing time. A Timing Point represents either a Stopping Point or a Passing Point where control by TMS is needed for throughput maximisation.
+Traction/Brake Lever — Lever(s) used by the driver to drive the train. It may be composed by one or more levers (e.g. traction lever, EDB lever, pneumatic brake lever, etc) but from the ATO-OB functional point of view it has only three different positions: a) Traction: when it is requesting the rolling stock to traction; b) Neutral: when it is requesting the rolling stock neither to traction nor braking; c) Braking: when it is requesting the rolling stock to brake.
+Train at Standstill — A train is considered to be at standstill when its speed has decreased to 3 km/h or less. [RD3]
+Train Driver — A person capable and authorised to drive trains, including locomotives, shunting locomotives, work trains, maintenance railway vehicles or trains for the carriage of passengers or goods by rail in an autonomous, responsible and safe manner. [RD4]
+Train Hold — The functionality that allows trains to be held at a defined location for operational reasons.
+Train Holding Brake — Function ensuring that the train will not move while it is at standstill. [RD1]
+Train is Moving — A train is considered to be moving when its speed is not 0.
+Train is Stopped — A train is considered to be stopped when its speed is 0.

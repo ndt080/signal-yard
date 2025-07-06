@@ -1,0 +1,1710 @@
+---
+title: "Railway Lexicon"
+sourceName: "University of Birmingham and Network Rail"
+sourceUrl: "http://www.railway-technical.com/glossary/laar-mk24.pdf"
+regions:
+  - "UK"
+  - "US"
+lastUpdated: "2025-07-06"
+collectedBy: "A. Piatrou"
+---
+
+3G — 3rd Generation Mobile Phone
+4GL — Fourth Generation Language
+AAR — Association of American Railroads
+AB — Absolute Block (system of working)
+ABCL — Automatic Barrier Crossing Locally monitored
+ABCR — Automatic Barrier Crossing Remotely monitored
+ADIF — Spanish Infrastructure Manager
+AHB — Automatic half barrier crossing
+AHQ — (British Transport Police) Area Headquarters
+ALARP — As low as reasonably practicable
+ALGRAM — All Level Crossing Risk Assessment Model
+AM — Amplitude Modulation
+AOA — Angel Of Attack
+AOCL — Automatic Open Crossing Locally monitored
+AOCR — Automatic Open Crossing Remotely monitored
+ARS — Automatic Route Setting
+ASLEF — Associated Society of Locomotive Engineers and Firemen.
+ASPER — Asset PERformance database
+AT — Auto Transformer (supply)
+AT — Auto Transformer
+ATA — Automatic Track Alignment
+ATC — Automatic Train Control
+ATCO — Association of Transport Co-ordinating Offices
+ATM — Amended Timetable Manager
+ATO — Automatic Train Operation
+ATOC — Association of Train Operating Companies
+ATP — Automatic Train Protection
+ATPM — Automatic Train Protection Manual
+ATR — Automatic Train Reporting
+ATR — Automatic Train Regulation
+ATS — Automatic Train Stop
+ATS — Automatic Train Supervision
+ATS — Applicable Timetable Service
+ATSS — Automatic Train Supervision System
+ATT — Active Tilting Train
+ATTA — Automatic Track Top and Alignment
+ATWS — Automatic Track Warning System
+AVACS — Aire Valley Control System
+AVB — Automatic Vacuum Brake
+AVI — Automatic Vehicle Identification
+AWB — Advance Warning Board
+AWE — Advance Warning Estimates
+AWG — Adhesion Working Group
+AWS — Automatic Warning System
+AWS — Auxiliary Wayside System
+AWS — Audible Warning System
+b — braking rate (abbreviation)
+B/C — Benefit to Cost Ratio
+BAA — British Airports Authority
+BABT — British Approval Board for Telecommunications
+BACS — Banking Automated Credit System
+Baneverket — Swedish infrastructure manager
+BATS — Business Analysis of Train Services
+BBEST — Balfour Beatty Embedded Slab Track
+BBRM — Balfour Beatty Rail Maintenance Ltd. (formerly SIE)
+BBRPL — Balfour Beatty Rail Projects Ltd.
+BBRR — Balfour Beatty Rail Renewals
+BCA — Business Critical Application (IT term)
+BCC — Banking Control Account
+BCK — Brake Composite Corridor
+BCRRE — Birmingham Centre for Railway Research and Education
+BCU — Brake Control Unit
+BCWS — Budgeted Cost of Work Scheduled
+BDM — Business Development Manager
+BDM — Business Development Manual
+BFK — Brake First Corridor
+BFO — Brake First Open
+BH–RAIL — Bull Head Rail Section
+BHX — Bank Holiday eXcepted
+BIFS — Billing Infrastructure Freight System
+BMB — Block marker board
+BMIS — Business Management Information System
+BMS — Basic Mechanical Signalling
+BNC — British National Connector
+BOP — Booking On Point
+BP — Brake Pipe
+BP — British Petroleum
+BP — Business Plan
+BPA — Business Planning Accountant
+BPA — Business Planning Analysis
+BPM — Business Process Manual
+BPR — Business Policy Review group: an RTIS body
+BR — British Railways
+BR — British Rail
+BRASS — British Railways Additional Superannuation Scheme
+BRB — British Railways Board
+BRBS — British Railways Business Systems (former BR equivalent of RTIS)
+BRENDA — BRidge ENgineer Data, computer system
+BRG — Business Review Group
+BRI — British Rail International
+BRIMS — British Rail Incident Monitoring Syste
+BRIS — British Rail Infrastructure Services
+BRP — Budget Reporting Pack
+BRR — British Rail Research
+BRS — Business Route Section
+BRSA — British Rail Staff Association
+BRT — British Rail Telecommunications, now known as RACAL
+BRV — Brake Release Valve (LUL)
+BS — British Standard
+BS spec — British Standards specification
+BS&TE — Business Signal & Telecommunications Engineer
+BSC — Base Station Controller
+BSK — Brake Second Corridor
+BSN — Bridge Strike Nominee (see Bridge Bash / Strike)
+BSO — Brake Second Open
+BSP — Bulk Supply Point
+BSPG — Business Systems Policy Group: an RTIS authorising body
+BST — Basic Signalling Technology
+BST — British Summer Time
+BT — Booster Transformer
+BTA — British Transport Advertising
+BTOG — British Transport Officers’ Guild
+BTP — British Transport Police
+BTS — Base Transceiver Station
+BZP — Bright Zinc Plating
+C&W — Carriage and Wagon
+C/E — Country End
+C2C — Commercial Name for London Tilbury and Southend lines
+CA — Cable,
+CA — Commercial Assistant,
+CA — Cash Accounts
+CAD — Computer Aided Design
+CAG — Contract Approval Group
+CAG — Crossrail Project Compliance & Assurance Group
+CAHA — Claims Allocation and Handling Agreement (see also RIDRR)
+CAMPS — Computer Assisted Maintenance Planning System
+CAMS — Cost Allocation Management System
+CAPE — Train Cancelled, derived from former Telegraph Code
+CAPE — Computer Aided Project Engineering
+CAPEX — CAPital Expenditure – funds spent on fixed assets
+CAPM — Capital Asset Pricing Model
+CAPP — Confirmed Annual Possession Plan
+CAPS — Colchester Area Power Supplies
+CAR — Corrective Action Request
+CARINO — TOPS (Total Operations Processing System) wagon number
+CARKND — TOPS (Total Operations Processing System) wagon type
+CAT — Cable Avoiding Tool
+CATP — Continous ATP
+CATE — Computer Assisted Train Enquiries
+CB — Central Battery
+CB — Circuit Breaker
+CB — Car body, carriage body
+CBA — Cost Benefit Analysis
+CBCT — Communications Based Train Control
+CB1 — Confederation of British Industry
+CB1 — Computer Based Interlocking
+CBS — Contract Breakdown Structure
+CBTC — Communication Based Train Control
+CCA — Current Cost Accounting
+CCF — Control Centre of the Future
+CCI — Confirmation of Client’s Instruction
+CCM — Company Control Manager (EWS)
+CCS — Contract Conditions – Safety
+CCSC — Contractor Core Safety Case
+CCTV — Closed Circuit TeleVision
+CCU — Core Control Unit
+CD — Closed Doors platform indicator
+CD — Circuit Diagramme
+CD ROM — Compact Disc Read Only Memory
+CDL — Central Door Locking
+CDM — The Construction (Design and Management) Regulations 1994
+CDM — Control Duty Manager
+CDMA — Collision Detection Multiple Access
+CDNP — Cheques Drawn Not Presented
+CE — Contract Engineer
+CEDAC — Civil Engineering Design And Construction
+CEDG — Civil Engineering Design Group
+CEGB — Central Electrictricity Generating Board
+CENELEC — European Committee for Electro-technical Standardisation
+CENTRO — Marketing name of West Midlands Passenger Transport Executive
+CER — Change En Route
+CER — Community of European Railways
+CER — Communications Equipment Room
+CERT — City of Edinburgh Rapid Transport
+CESM — Civil Engineering Safety Manual
+CET — Controlled Emission Toilet
+CGT — Capital Gains Tax
+CH — CHiltern Railway Company
+CHALET — Casualties, Hazards, Access, Location, Emergency services and Time
+CHAPS — Clearing House Accounts Payable System
+CHIP — Chemicals Hazard Information and Packaging regulations
+CI — Contract Instruction
+CIÉ — Corás Iompair Éireann, holding company of Iarmód Éireann (Irish Rail)
+CILT — Chartered Institute of Logistics and Transport
+CIM — rules for international carriage of goods (Con-vention Internationale concernant le transport des marchandises par chemins de fer)
+CIMA — Chartered Institute of Management Accountants
+CIMAH — Control of Industrial Major Accident Hazard
+CIMU — Central Infrastructure Maintenance Unit
+CIP — Core Investment Programme
+CIS — Customer Information System
+CITB — Construction Industry Training Board
+CITDS — Construction Industry Tax Deduction Scheme
+CITR — Centre for Independent Transport Research (London)
+CLASS 0 TRAINS — Light locomotives
+CLASS 1 TRAINS — Express passenger trains, mail trains and some emergency trains
+CLASS 2 TRAINS — Stopping passenger trains
+CLASS 3 TRAINS — Express parcel trains
+CLASS 4 TRAINS — Express freight trains – 75mph maximum speed
+CLASS 5 TRAINS — Empty coaching stock trains
+CLASS 6 TRAINS — Express freight trains – 60mph maximum speed
+CLASS 7 TRAINS — Freight trains with 45mph maximum speed and engineers’ trains
+CLASS 8 TRAINS — Freight trains with 35mph maximum speed and engineers’ trains
+CLASS 9 TRAINS — Eurostar trains
+CM — Contracts Manager
+CM — Coded Manual
+CMD — Central Materials Depot
+CMS — Competence Management System
+COA — Chart Of Accounts
+CoCoSig — Command, Control and Signalling (TSI)
+CoCP — Code of Construction Practice
+COCS — Computerised Operations Control System
+COI — Confirmation Of verbal Instruction
+COMET — Community Metro
+COMPASS — COMBined Performance And Safety System
+CoPA — Control of Pollution Act 1974
+COS — Central Operating Section
+COS — Client Operating System
+COSHH — Control Of Substances Hazardous to Health 1988
+COSS — Controller of Site Safety
+COT — Condition Of Track.
+COTS — Commercial Off The Shelf equipment
+COWD — Cost Of Work to Date
+CPC — Circuit Protective Conductor
+CPD — Continuing Professional Development
+CPD —Capital Programmes Directorate
+CPFR — Crossrail Programme Functional Requirements
+CPM — Codes per Minute
+CPMG — Company Performance Management Group
+CPMT — Central Project Management Team, WCML
+CPO — Compulsory Purchase Order
+CPPP — Confirmed Period Possession Plan
+CPS — Crown Prosecution Service
+CPST — Central Project Sponsor’s Team, WCML
+CR — Change Request
+CRA — Call Routing Apparatus
+CRC — Class Representative Committee
+CRE — Contractor’s Responsible Engineer
+CRE — Conductor Rail Equipment
+CRG — Contracts Review Group
+CRG — Commercial Review Group
+CRL — Crossrail ltd.
+CRR — Competition & Regulatory Review
+CRS — Computerised Reservation System
+CRT — Critical Rail Temperature
+CRT — Construction Round Table
+CRUCC — Central Rail Users’ Consultative Committee
+CSA — Cross–Sectional Area
+CSAC — Candidate Special Area of Conservation
+CSC — Connex South Central
+CSC — Contractor’s Safety Case
+CSDE — Correct Side Door Enable
+CSE — Connex South Eastern
+CSI — Common Safety Indicator
+CSM — Commercial Services Manager
+CSM — Customer Service Manager
+CSM — Common Safety Method
+CSR — Cab Secure Radio
+CST — Common Safety Target
+CT — Central Trains
+CTC — Centralised Traffic Control
+CTOC — Crossrail Train Operating Company
+CTR — Cost Time Resource
+CTRI — Channel Tunnel Route 1 (via Tonbridge)
+CTR2 — Channel Tunnel Route 2 (via Maidstone)
+CTR3 — Channel Tunnel Route 3 (via Redhill)
+CTRL — Channel Tunnel Rail Link
+CTRU — Central Track Renewals Unit
+CV — Curriculum Vitae
+CWG — Canary Wharf Group
+CWM — Carriage Washing Machine
+CWPR — Company Weekly Performance Report
+CWR — Continuously Welded Rail
+CWT — Carlson Wagonlit Travel
+D&C — Design and Construction
+D&D — Design & Development
+D&DA — Design and Development Authority
+D&DR — Design & Development Report
+D&I — Design & Implementation
+D&IA — Design and Implementation Authority (see also DD&I)
+DAB — Departmental Advice (Blue).
+DAC — Depot Access Conditions
+DAL — Down Avoiding Lane
+DAPF — Document Amendment Proposal Form
+DAPP — Draft Annual Possession Plan
+DART — Dublin Area Rapid Transit, the coastal metro system in Dublin
+DART — Developing Auckland Rail Transport
+DART — Digital Advanced Radio for Trains
+DB — Deutsche Bundesbahn, German State Railways
+DB — Deutsche Bahn, German State Railways
+DB AG — Deutsche Bahn AG, German State Railways
+DB Netz — German infrastructure manager
+DB Regio — Deutsche Bahn Regio
+DB Schenker — Deutsche Bahn Schenker (formerly English, Welsh and Scottish railway - EWS)
+DBFO — Design Build Finance Operate (Highways Agency Tender arrangements)
+DBVIC — Driver’s Brake Valve Isolating Cock (LUL)
+DBSO — Driving Brake Second Open (Anglia TOC Push-Pulls)
+DC — Direct Current
+DCA — Data Concentrator Appreciation
+DCF — Discounted Cash Flow
+DCIO — Deputy Chief Inspecting Officer (or Railways)
+DCM — Duty Contracts Manager
+DCP — Document Control Point
+DCP — Designated Competent Person
+DCU — Digital Control Unit
+DD — Direct Debit
+DDA — Disability Discrimination Act
+DDA — Design & Development Authority
+DDI or DD&I — Design Development and Implementation
+DeBo — Designated Body (as defined by the RIR)
+DEL — Down Electric Line
+DeltaRail — Formerly British Rail Research & AEA Technology Rail
+DEMU — Diesel Electric Multiple Unit
+DEP — Designated Earth Point
+DETP — Detailed Engineering Train Plan
+DETR — Department of the Environment, Transport and the Regions
+DFL — Down Fast Line
+DFO — Depot Facility Owner
+DFT — DART Fixed Terminal
+DfT — Department for Transport
+DG — Dangerous Goods
+DGI — Dangerous Goods Incident
+DGL — Down Goods Loop
+DGPS — Differential Global Positioning by Satellite.
+DIADS — Diagram Input And Distribution System
+DiPTAC — Disabled Persons Transport Advisory Committee
+DIRFT — Daventry International RailFreight Terminal
+DIS — Flexible Display System (IECC replacement for SDS)
+DLM — Data Link Module
+DLR — Docklands Light Railway
+DM — Deutsche Mark (former German Currency)
+DML — Data Manipulation Language
+DML — Down Main Line
+DMMU — Diesel Mechanical Multiple Unit
+DMSS — Development Manager, Signalling Strategy
+DMU — Diesel Multiple Unit
+DNC — Declared Non-Compliance
+DO — Driver Only
+DoE — Department of the Environment
+DoETR — Department of the Environment, Transport and the Regions
+DOO — Driver Only Operation
+DOO(NP) — Driver Only Operation – Non Passenger
+DOO(P) — Driver Only Operation – Passenger
+DOP — Driver Only Passenger
+DOS — Disk Operating System
+DOT — Department Of Transportation (United States)
+DoT or DTP — (former) Department of Transport
+DP — Delivery Partner
+DPA — Delegated Procurement Authority
+DPC — Data Protocol Converter
+DPC — Development Planning Centre
+DPC — Damp Proof Course
+DPI — Dye Penetrant Inspection
+DPL — Down Platform Line
+DPL — Down Passenger Loop
+DPM — Development Planning Manager
+DPPP — Disabled People’s Protection Policy\(^x\)
+DPPP — Draft Period Possession Plan
+DQM — Data Quality Manager
+DRA — Driver Reminder Appliance
+DRACAS — Data Reporting, Analysis & Corrective Action System
+DRM — Delivery Resource Manager
+DRS — Direct Rail Services
+DRS — Drive Reverse Switch
+DRS — Down Refuge Siding
+DSD — Driver’s Safety Device
+DSE — Display Screen Equipment
+DSL — Down Slow Line
+DSP — Digital Signal Processing
+DSS — formerly Department of Social Security
+DTG-R — Distance To Go-Radio
+DTI — Department of Trade and Industry
+DTL — Down Tilbury Loop
+DTMF — Dual Tone Multi Frequency
+DTN — Data Transmission Network
+DTS — Dynamic Track Stabiliser
+DTS — Data Transmission System
+DVT — Driving Van Trailer.
+DWL — Dynamic Warning Lights
+DWP — Department of Work and Pensions
+DX — Direct eXtract (air distribution system)
+E — Energy (normally measured in J or Ws)
+E&G — Edinburgh to Glasgow line
+E&M — Earth and Mark
+E&OD — Engineering and Operations Development
+E&P — Electrification and Plant
+E&P — Engineering and Production
+E,L&N — Early, Late and Night (turns of duty)
+EA — East Anglia
+EA — Electronics Appreciation
+EAC — Extended Arm Contract
+EAC — Equivalent Annual Cost
+EAM — Engineering Access Manager
+EAMG — Engineering Access Management Group
+EAWA — Electricity at Work Act
+EAZ — East Anglia Zone
+EAZIAL — Easy Access Zonal Infrastructure Asset Log
+EBA — Eisenbahnbundesamt (German Regulator)
+EBS — Emergency Bypass Switch (on rolling stock)
+EC — European Commission
+EC — European Community (now EU)
+EC4T — Electric Current for Traction
+ECC — English China Clays
+ECML — East Coast Main Line
+ECO — Electrical Control Operator
+ECR — Electrical Control Room
+ECR — Evaluation of Change Request
+ECRO — Electrical Control Room Operator
+ECS — Empty Coaching Stock
+ECU — (former) European Currency Unit (now EURO)
+EDB — Electrodynamic brake
+EDI — Electronic Data Interchange
+EDP — Electrification Distribution and Plant
+EDP — Electronic Data Processing
+EE&CS — Electrical Engineering & Control Systems
+EEB — Eastern Electricity Board
+EEC — European Economic Community, now referred to as the EU
+EEN — Examining Engineer’s Nominee (for bridge strikes)
+E/EPES — Electrical /Electronic /Programmable Electronic Systems
+EFC — External Financing Contribution
+EFE — Electrification Fixed Equipment
+EFL — External Financing Limit
+EFPL — Economical Facing Point Lock
+EFRTC — European Federation of Railway Trackwork Contractors
+EG — Executive Grade: old style executive job grading system
+EHD — East Ham Depot
+EI — Electrical Installation
+EIA — Electronics Industry Association (standards setting body)
+EIA — Environmental Impact Assessment
+EIB — European Investment Bank
+EIM — European Infrastructure Managers (association)
+EIP — Examination In Public
+EIRENE — European Integrated railways Radio Enhanced NEWork
+ELCB — Earth Leakage Circuit Breaker
+ELP — East London Partnership
+ELR — Engineers Line Reference
+EM — Environmental Manager
+EMC — ElectroMagnetic Compatibility
+EMGTPA — Equivalent Million Gross Tonnes Per Annum
+EMI — ElectroMagnetic Interference
+EMP — Environmental Management Plan
+EMS — Environmental Management Statement
+EMS — Engineering Management System
+EMU — Electric Multiple Unit,
+EMU — European Monetary Union
+EN — Euro Norm
+ENS — European Night Services
+EOA — End of Authority
+EOTD — End of Train Device
+EP — Electronic Principles
+EPA — Engineering Publications Assistant
+EPB — Electro-Pneumatic Brake
+EPBIC — Electro-Pneumatic Brake Isolating Cock (LUL)
+EPD — Engineering & Production Directorate
+EPI — Environmental Performance Indicator
+EPROM — Erasable Programmable Read Only Memory
+EPS — Earnings Per Share
+EPS — Enhanced Permissable Speed
+EPS — European Passenger Services
+EQAP — Equipment APpreciation
+ER — Employer’s Representative
+ERA — European Railway Agency
+ERDF — European Regional Development Fund
+EROS — Early Rationalisation Of Signalling
+EROS — Efficiency by means of Rationalisation Of Signal boxes
+EROS — Emergency Restriction Of Speed
+ERRI — European Rail Research Institute
+ERRAC — European Rail Research Advisory Council
+ERTMS — European Railway Traffic Management System
+ES — Engineering Supervisor
+ESI — Electricity Supply Industry
+ESM — Engineering Safety Management (Yellow Book)
+ESMS — Engineering Safety Management System
+ESR — Emergency Speed Restriction
+ESSD — Electro-Static Sensitive Device
+ETA — Expected Time of Arrival
+ETB — Electronic Token Block
+ETCS — European Train Control System
+ETD — Expected Time of Departure
+ETD — National Extension Trunk Dialling
+ETE — Electric Traction Engineers
+ETH — Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology)
+ETH index — Electric Trains Heating Capacity (on traction rolling stock)
+ETHERNET — Computer cabling system
+ETM — Electric Track Maintenance
+ETR — Electronic Train Recording.
+ETRB — Electronic Train Register Book
+ETRM — Engineering Train Routing Map
+EU — European Union
+EUCG — End User Computing Group
+EUKL — Eurostar (UK) Ltd
+EuroSPIN — European Seamless Passenger Information Network
+EVA — Ethylene Vinyl Acetate
+EVR — Early Voluntary Retirement
+EWD — Each Week Day
+EWI — Emergency Warning Indicator
+EWS — English, Welsh & Scottish Railway Ltd.
+EWSA — Engineering Works & Safety Arrangements. (LUL)
+ExCo — Railtrack Line Executive Committee
+Expotel — hotel accommodation and conference booking agency
+EZP — Electro-Zinc Plating
+EZP — Engineering Zone of Possession
+F/B — Foot Bridge
+F/H — FreeHold
+FA — Fixed Assets
+FAQ — Frequently Asked Question
+FAST — Federation Against Software Theft
+FAST — Facility for Accelerated Service Testing, Pueblo, USA
+FAT — Factory Acceptance Test
+FBMIS — Finance and Business Management Information System: now known as BMIS
+FBP — Fixed Block Processor
+FB-RAIL — Flat Bottom Rail
+FC — Financial Controller
+FCU — Fixed Communications Unit
+FDC — Financial Data Control
+FDC — Framework Design Consultant
+FDDB — Fibre Distributed Database
+FDDI — Fibre Distributed Data Interface
+FDM — Frequency Division Multiplex
+FE — Finite Elements
+FE — Foundation Electronics
+FEA — Finite Element Analysis
+FFG — Freight Facilities Grant
+FFT — Functional Fault Tree
+FGE — First Great Eastern
+FGW — First Great Western
+FIBU — Fifty hertz Booster Unit
+FIO — For Information Only
+FIRM — Fares Increases Regulation Mechanism
+FIS — Fault isolating switch (LUL)
+FK — Corridor first
+FLAWS — a computer database of rail flaws
+FLT — Freight Liner Terminal
+FM — Frequency Modulation
+FMEA — Failure Mode and Effects Analysis
+FMECA — Failure Mode Effect and Criticality Analysis
+FMES — Fixed & Mobile Equipment Supply
+FN — Fault Number
+FNW — First North Western
+FO — Open First
+FOC — Freight Operating Company
+FOC — Fibre Optic Cable
+FOC — Free Of Charge
+FORI — Fibre Optic Route Indicator
+FOU — Freight Operating Unit
+FP — FootPath (level crossing)
+FPL — Facing Point Lock
+FPM — Fire Precautions Manager
+FR — Feasibility Report
+FRA — Federal Railroad Administration, USA
+FRA — Fixed Rate Agreement
+FRAME — Fault Reporting And Monitoring Equipment
+FRED — Financial Reporting Exposure Draft
+FRP — Field Reporting Procedures
+FRS — Financial Reporting Standard,
+FRS — Functional Requirements Specification \(^x\)
+FS — Feeder Station
+FS — Fixed Stations, trackside radio equipment for cab secure radio
+FSG — Financial Statement Generator: a reporting tool within the BMIS system
+FSH — Full Screen Height
+FSK — Frequency Shift Keying
+FTA — Fault Tree Analysis
+FTA — Federal Transit Administration (of the DOT, United States)
+FTA — Freight Transport Association
+FTS — Failure To Stop
+FUG — Freight UpGrade
+FURNO — Until FURther N0tice
+FWI — Fatality & Weighted Injuries
+FX — Foreign Exchange
+G&SW — Glasgow and South Western line
+GBP — Great Britain Pound
+GBPRT — Great Britain Passenger Rail Timetable
+GBV — Gross Book Value
+GCC — Gauge Corner Cracking
+GDI — Graphical Data Interface
+GDP — Gross Domestic Product
+GE — Great Eastern
+GENIUS — GEmini for Non Integrating Unit Stock
+GEOGIS — GEOGraphic Information System
+GER — Great Eastern Railway
+GF — Ground Frame
+GIJ — Glued Insulated rail Joint
+GIS — Geographic Information System
+GIS — Graphical Information System \(^x\)
+GL — Goods Line
+GL — General Ledger
+GLE — Grant Lyon & Eagre
+GLW — Gross Laden Weight
+GMITA — Greater Manchester Integrated Transport Authority
+GMITE — Greater Manchester Integrated Transport Executive
+GMPTA — formerly Greater Manchester Passenger Transport Authority
+GMPTE — formerly Greater Manchester Passenger Transport Executive
+GMT — Greenwich Mean Time
+GN — Great Northern Line (Kings Cross to Cambridge via Royston)
+GNER — Great North Eastern Railway
+GTS — Greater Nottingham Rapid Transit System
+GOB — Gospel Oak to Barking line
+GOL — Government Office for London
+GP — General Purpose
+GPF — General Protection Fault (in computing)
+GPL — Ground Position Light
+GPR — General Purpose Relief (staff)
+GPRS — General Packet Radio Service
+GPS — Global Positioning by Satellite system
+GRIP — Guide to Railway Investment Projects
+GRN — Goods Received Note
+GSM — Global System for Mobile communications
+GSM-R — Global System for Mobile communications for Railways
+GSP — Ground Switch Panel
+GSPP — General Specification for Possession Planning
+GTD — Group Tax Department
+GTO — Gate Turn Off Thyristor
+GTRM — GT Railway Maintenance
+GUI — Graphical User Interface
+GUV — General Utility Van
+GW — Great Western
+GWH — Great Western Holdings
+GWML — Great Western Main Line
+GWR — Great Western Railway
+GWT — Great Western Trains
+GWUG — Great Western UpGrade
+GWZ — Great Western Zone
+GZ — (Safeguarded) Greenzone
+H&S — Health and Safety
+H&SE — Health & Safety Executive (UK)
+H/S — Hand Signaller
+HA — Highways Agency
+HABD — Hot Axle Box Detector
+HASAW — Health And Safety At Work
+HAZCHEM — HAZardous CHEMical
+HAZID — HAZard IDentification
+HAZOP — HAZard OPerability study
+HAZPAK — training course for drivers of vehicles carrying dangerous substances in packages
+HCA — Historic Cost Accounting
+HEP — Head End Power
+HEX — Heathrow EXpress
+HFDG — Human Factors Development Group
+HIP — Headquarters Investment Panel
+HL — High Level
+HL — Home Location
+HLOS — High Level Output Statement
+HM — Her Majesty’s
+HMG — Her Majesty’s Government
+HMFI — Her Majesty’s Factory Inspectorate
+HMI — Human Machine Interface
+HMRI — Her Majesty’s Railway Inspectorate
+HOBC — High Output Ballast Cleaner
+HOCM — Head of Contract Management
+HOE (HofE) — Head Of Engineering
+HOP — Head Of Projects
+HOPO (HoPO) — Head Of Projects Organisation
+HOPP — Head Of Property Projects
+HQ — HeadQuarters
+HR — Human Resources
+HRA — Heritage Railway Association
+HRM — Human Resources Manager
+HRRP — (Crossrail Project) Hazard Record Review Panel
+HRS — Human Resources System
+HSC — Health & Safety Commission
+HSDR — High Speed Data Ring
+HSE — Health & Safety Executive (UK)
+HSM — Hand Signal Man
+HST — High Speed Train
+HSTRC — High Speed Track Recording Coach
+HSTRT — High Speed Track Recording Train
+HSTRT — High Speed Track Relaying Train
+HSWA — Health and Safety at Work Act 1974
+HTS — High Tensile Steel
+HV (hv) — High Voltage
+HV (hv) — High Visibility
+HVAC — Heating, Ventilating and Air Conditioning
+HVI — High Voltage Impulse (track circuit type)
+HVITC — High Voltage Impulse Track Circuit
+HW — HardWare
+HW-Point — Particular type of point with electric motor drive
+Hz — Hertz
+J/L — InterLocking
+IA — Implementation Authority
+IA — Investment Authority
+IAMS — Integrated Asset Management System
+IATC — Intermittent Automatic Train Control
+IBH — Intermediate Block Home Signal
+IBIS — Internal Business Invoicing System: a former BR internal trading system
+IBJ — Insulated Block Joint
+IC — InterCity
+IC — Integrated Circuit
+IC — Investment Committee
+IC — Investment Controller
+ICAEW — Institute of Chartered Accountants of England and Wales
+ICC — International Convention Centre
+ICC — Infrastructure Control Centre
+ICDB — Industry Capacity DataBase
+ICE — Institution of Civil Engineers
+ICE — InterCity Express (Germany)
+ICM — Infrastructure Contracts Manager
+ICM — Internal Communications Manager
+ICMU — Interference Current Monitoring Unit (on 3 phase train)
+IDC — Insulation Displacement Connector
+IDC — Inter Disciplinary Check
+IDF — Intermediate Distribution Frame
+IDMS — Integrated Document Management System
+IDS — Infrastructure Data Server
+IDT (ID&T) — Implementation, Development and Training
+Ifé — Iarnród Éireann (Irish Rail)
+IEC — International Electrotechnical Commission
+IECC — Integrated Electronic Control Centre
+IEE — Institution of Engineering and Technology
+IEE — Institution of Electrical Engineers, now IET
+IEEE — Institute of Electrical and Electronics Engineers (United States)
+IEP — Intercity Express Programme
+IERS — International Environmental Rating System
+IFC — Infrastructure Fault Control
+IFS — Independent Function Switch
+IGBT — Integrated Gate Bipolar Transistor
+IHHA — International Heavy Haul Association, USA
+IIP — Investors In People
+ILGRI — International Railway Inspectors Group
+ILM — Railtrack Infrastructure Liability Manager
+ILWS — Inductive Loop Warning System
+IM — Infrastructure Manager
+IMACS — Inventory Management Accounting and Control System
+IMC — Infrastructure Maintenance Company
+IMC — Infrastructure Maintenance Contract
+IMC — Infrastructure Maintenance Contractor
+IMC2 — 2nd generation Infrastructure Maintenance Contract
+IMCO — Infrastructure Maintenance Company
+IMDG — International Maritime Dangerous Goods Code
+IMechE — Institution of Mechanical Engineers
+IMG — Infrastructure Materials Group
+IMPACT — Improved Manufacturing Performance Through Active Change and Training
+IMPS — Investment Monitoring and Planning System: the BR predecessor to PIPS
+IMR — Interlocking Machine Room
+IMU — Infrastructure Maintenance Unit
+INLORS — INner London Orbital Route Strategy
+IORPS — Integrated Operational Railway Planning System
+IP — Intellectual Property
+IP — Investment Proposal
+IR — InfraRed
+IRJ — Insulated Rail Joint
+IRR — Internal Rate of Return
+IRSE — Institution of Railway Signal Engineers
+IS — Information System
+IS — Intermediate Signalling
+ISA — Independent Safety Assessor
+ISAR — Information Systems Activity Request
+ISDN — Integrated Services Digital Network
+ISG — Infrastructure Support Group
+ISM — IECC System Monitor
+ISO — International Standards Organisation
+ISRS — International Safety Rating System
+ISTP — Intermediate Signalling Technology: Principles
+ISU — Infrastructure Services Unit
+ISwA — Independent Software Assessor
+IT — Information Technology
+ITA — Integrated Transport Authority
+ITE — Institute of Transportation Engineers (United States)
+ITPM — IT Process Model
+ITS — Infrastructure Testing Services
+ITT — Invitation To Tender
+ITU — International Telecommunications Union
+IVPS — Intermediate Voltage Power Supply
+IVPS† — Infrastructure Video System (Omnicom Ltd)
+IWA — Individual Working Alone
+IZ — Inter Zonal: the transfer of costs between Business Units without cash
+IZPD — Inter-Zonal Possession Database
+J — Joule, international unit for energy (= WS)
+JCN — Job Cost Number
+JCN — JunCtioN
+JCT — Joint Construction Trades
+JD — Job Description
+Jernbaneverket — Norwegian railway infrastructure manager
+JLE — Jubilee Line Extension
+JN (JC) — Junction
+JS1 — basic signalling cable jointing and testing
+JS2 — advanced signalling cable jointing and testing
+JSOP — Joint Signing On Point
+JTC — Jointless Track Circuit
+KDC — Key Distribution Centre
+KE — Kinematic (or kinetic) Envelope
+km — kilometre, 1000 m
+km/h — kilometre per hour
+KPI — Key Performance Indicator
+kVA — kilovolt-Ampere
+L&B — Land and Buildings
+L/H — Leasehold
+L/S — Late Start
+L/S — London Side
+LA — Local Authority
+LAN — Local Area Network (for computer systems)
+LAWS — Low Adhesion Warning System
+LB — Line Blocked
+LC — Level Crossing
+LC — locally controlled manned level crossing
+LC — Line Clear
+LCC — Life Cycle Costing
+LCAMS — Low Carbon Austenitic Manganese Steel[RT]
+LCD — Liquid Crystal Display
+LCP — Local Control Panel
+LCR — London and Continental Railways
+LCU — Local Control Unit
+LD — Light Diesel locomotive
+LD — Liquidated Damages
+LDDC — (former) London Docklands Development Corporation
+LDG — List of Dangerous Goods (obsolete)
+LDT — Long Distance Termination
+LE — Light Engine (or Light Electric loco)
+LEB — London Electricity Board
+LEC — (former) London Electricity Contracting Ltd.
+LED — Light Emitting Diode
+LEM — Local Estimating Manager
+LEU — Lineside Electronic Unit
+LFB — London Fire Brigade, now London Fire & Civil Defence Authority
+LGV — Ligne à Grande Vitesse: French high speed line
+LIFT — London International Freight Terminal
+LITM — Local IT Manager
+LIU — Line Jack Unit
+LL/H — Long Leasehold
+LLPA — Long Lead (Line) Public Address
+LMA — Limit of Movement Authority
+LMD — Light Maintenance Depot (for locos and stock)
+LN — Leeds Northern
+LNE(Z) — London North Eastern (Zone)
+LOA — Limit of Authority
+LOP — Loss of Power
+LOROL — London Overground Railway Ltd.
+LOS — Limit Of Shunt indicator
+LOWS — Lookout Operated Warning System
+LP — Local Processor
+LPA — Local Procurement Agent
+LPO — Local Process Owner
+LPS — Local Policy Statement
+LRM — Layout Risk Model
+LRP — Local Reporting Pack
+LRPC — London Regional Passengers’ Committee
+LRT — Light Rail Transit
+LRV — Light Rail Vehicle
+LS — (Network Rail) Line Standard
+LSB — Local Sensor Bus
+LSC — Local Site Computer
+LSPD — Local Safety Policy Document
+LSS — London Shift Supplement
+LT — London Transport
+LTA — London Transport Authority
+LTA — Lost Time Accidents
+LTC — Long Term Charge
+LTP — Local Transport Plans
+LTS — (former) London, Tilbury and Southend railway, now C2C
+LU — London Underground
+LUL — London Underground Ltd
+LV — LiVerpool Street
+LV — Low Voltage
+LVDT — Linear Variable Differential Transformer
+LWR — Long Welded Rail
+LWRT — Long Welded Rail Train
+LX (L/X) — level crossing
+m — metre, international unit of length
+M&E — Mechanical and Electrical
+M&EE — Mechanical & Electrical Engineer
+M&EE — Mechanical & Electrical Engineering
+MA — Movement Authority
+MAF — Main Aspect Free
+MAFF — Ministry of Agriculture Fisheries & Food
+MART — Mean Active Repair Time
+MAS — Management Aspects of Supervision (Signalling & Telecomms)
+MAS — Multiple Aspect Signalling
+MATP — Manual ATP
+MB — level crossing with Manually lifted Barriers
+MB — MegaBit
+MB/s — MegaBit per second
+MBS — Motor Brake Second (or Standard)
+MBO — Management Buy Out
+MBSS — Moving Block Signalling System
+MCB — Manually Controlled Barrier (of level crossing)
+MCB — Miniature Circuit Breaker
+MCU — Main Control Unit
+MDC — Management Driven Change
+MDF — Medium Density Fibreboard
+MDF — Main Distribution Frame
+MEAV — Modern Equivalent Asset Value
+MEBO — Management and Employee Buy Out
+MEF — Modern Equivalent Form
+MEP — Member of European Parliament
+MEWP — Mobile Elevating Work Platform
+MGL — Multiple Groove Locking
+MGR — Merry-Go-Round
+MGT — Mega (Million) Gross Tonnes
+MHSW (MHSAW, MHSWR) — Management of Health and Safety at Work Regulations, 1992
+MI — Mechanical Installation Practices
+MICC — Management Information Communications Centre (controls BTP operations South of England)
+Mids — Midlands
+MIP — Mobility Impaired Person
+MIPS — Million Instructions Per Second
+MIS — Management Information System
+MLF — Main Line Freight
+MLRI — Multi-Lamp Route Indicator
+MM — Money Market
+MMC — Monopolies and Mergers Commission
+MMIS — Maintenance Management Information System
+MML — Minimum Monetary Limit
+MML — Midland Main Line
+MOD — Ministry Of Defence
+MoP — Member of the Public
+MOS — Mobile Operations Supervisor
+MOS — Motor Operated Switch
+MP — Major Projects
+MP — MilePost
+MPD — Major Projects Division (Thameslink 2000, WCML, Crossrail etc.)
+MPI — Magnetic Particle Inspection
+MPM — Multi Processor Module
+MPU — Motive Power Unit
+MPV — Multi Purpose Vehicle
+MRP — Management Reporting Pack
+MRP — Monthly Reporting Pack
+MRT — Minimum Rail Temperature
+MRT — Mass Rapid Transit
+MS — Member State (of the EU)
+MS — Method Statement
+MSL — Level crossing with Miniature Stop Lights
+MSP — Measured Shovel Packing
+MSS — Maximum Safe Speed
+MTBF — Mean Time Between Failures
+MTBFF — Mean Time Between Functional Failures
+MTBHE — Mean Time Between Hazardous Events
+MTBSAF — Mean Time Between Service Affecting Failures
+MTBWF — Mean Time Between Wrongside Failures
+MTL — Mersey Travel Ltd.
+MTP — Mode of Travel Priority
+MTR — Mass Transit Railway, Singapore
+MTRC — MassTransit Railway Corporation, Hong Kong
+MTRT — Matisa Track Recording Trolley
+MTTR — Mean Time To Repair
+MTTRS — Mean Time To Restore Service
+MVB — Multifunctional Vehicle Bus
+MWL — Level crossing with Miniature red/green Warning Lights
+MWO — Minor Works Order
+MZ — Midland Zone (Lead Zone)
+MZSA — Midland Zone Sponsor’s Agent
+N — Newton, international unit of Force [kg m / s²]
+NeVMP — Noise and Vibration Management Plan
+NAO — National Audit Office
+NAPS — National Accounts Payable System: a former BR system
+NASG — National Applications Support Group
+NAT — Not Applicable Timetable
+NATM — New Austrian Tunnelling Method
+NBA — National radio network Base station Alignment
+NBV — Net Book Value
+NCC — National Control Centre
+NCL — Northern City Line
+NCR — Non-Conformance Report
+NDA — Not Described Alarm
+NDE — Non-Destructive Evaluation
+NDF — No Defect Found
+NDM — Network Development Manager
+NDN — National Data Communications Network
+NDT — Non-Destructive Testing
+NEBOSH — National Examination Board in Occupational Safety & Health
+NEC — National Electrical Code (also known as NFPA 70)
+NEG — National Express Group
+NEM — National Estimating Manager
+NEMA — National Electrical Manufacturers Association
+NET — Nottingham Express Transit
+NFF — No Fault Found
+NFPA — National Fire Prevention Association
+NG — Normal Grade
+NI — National Insurance
+NIC — National Insurance Contributions
+NIR — National Incident Register
+NIR — Northern Ireland Railways
+NLL — North London Line (North Woolwich–Richmond)
+NLR — North London Railways
+NMC — Network Management Centre
+NMCSA — Network Management Centre Sponsor’s Agent
+NMS — Network Management Statement
+NMT — New Measurement Train
+NNTR — Notified National Technical Rule
+NoBo — Notified Body
+NOL — Notice of Liability
+NPB — Non-powered bogie
+NPCCS — Non Passenger Carrying Coaching Stock
+NPM — National Procurement Manager
+NPMEA — National Planning Manager, Eng. Access
+NPO — National Process Owner
+NPS — National Payroll System
+NPV — Net Present Value
+NPW — Normal Place of Work
+NR — Network Rail
+NRA — National Rivers Authority
+NRA — National Rail Academy (now RSC)
+NES — National Rail Enquiry Service
+NRG — National Records Group
+NRLS — Network Rail Line Standards
+NRM — Nominated Responsible Manager
+NRN — National Radio Network
+NRNA — National Radio Network Appreciation
+NRS — National Railway Supplies (now UniPart)
+NRSC — Network Rail railway Safety Case
+NRV — National Reference Value
+NS — Nederlandse Spoorwegen
+NSA — National Safety Authority
+NSC — National Supply Contract
+NSE — formerly Network South East
+NSKT — No Signaller – Key Token
+NSR — National Safety Rule
+NSTR — No Signaller – Token Remote
+NTBEP — Not To Be Exceeded Price
+NTN — National Teleprinter Network
+NTO — National Training Organisation
+NTP — North Trans–Pennine route
+NTPC — National Transaction Processing Centre: now known as the Shared Services Centre (SSC)
+NTR — National Track Renewals
+NVQ — National Vocational Qualification
+NWR — Normal Working Resumed
+NWT — North Western Trains
+NWZ — North West Zone
+NX — eNtrance – eXit (Signal Box Control Panel)
+O&I — Operations and Interface
+O&M — Operation & Maintenance (manual)
+O&SPA — Operational and Support hazard Analysis
+O/B — OverBridge
+ÖBB — Österreichische Bundesbahnen
+OC — Open Crossing
+OCB — Oil Circuit Breaker
+OCC (or Occ) — Occupied
+OCC — Operations Control Centre
+OCL — Operational Communications Link
+OCS — One Control Switch (signalling panel)
+OCS — Overhead Catenary System
+OCU — Operator’s Control Unit
+OD (od) — Outside Diameter
+OE — Outside Edge
+OEL — Occupational Exposure Limit
+OETR — Outline Engineering Train Requirements
+OFN — Optical Fibre Network
+OHL — OverHead Line
+OHLE — OverHead Line Equipment
+OHNS — OverHead Line Neutral Section
+OJEC — Official Journal of the European Community
+OJEU — Official Journal of the European Union
+OLBI — Off-line battery inverter (LUL)
+OLC — Occupation Level Crossing
+OLE — Overhead Line Equipment
+OLEAR — Overhead Line Equipment Asset Register
+OLEMI — Overhead Line Equipment Master Index
+OOG — Out Of Gauge
+OOO — Out Of Order
+OOR — Out Of Round
+OOU — Out of Use
+OP — Outside Party
+OPEX — Operating Expenditure
+OPM — Operational Planning Manager
+OPO — One Person Operation
+OPRAF — Office of Passenger RAil Franchising
+OPS — Outline Project Specification
+OPU — Operational Planning Unit
+OPUG — Other Passenger Upgrades
+ORE — Office de Recherches et d’Essais
+ORN — Overlay Radio Network
+OROR — Outside Rules Of the Route
+ORR — Office of Rail Regulation
+ORR — Office of the Railway Regulator
+OS — Ordnance Survey
+OSG — Operation Safety Group
+OSGR — Ordnance Survey Grid Reference
+OSI — Open Systems Interconnect
+OTDR — Optical Time Domain Reflectometer
+OTM — On-Track Machine
+OTM — Overhead-Line Traction Maintenance
+OTMR — On Train Monitoring Recorder
+OTP — On-Track Plant
+OTW — One Train Working
+P3 — Primavera Project Planner
+P — Programme
+P&C — Points and Crossings: an alternative abbreviation for S&C
+P&E — Plant and Equipment
+P&L — Profit and Loss
+P&M — Plant & Machinery
+p.a. — per annum
+P.Way (P–way) — see Permanent Way
+Pa — Pascal, international unit of pressure [N / m²]
+PA — Public Address (System)
+PA — Personal Assistant
+PABS — Passenger track Access Billing System
+PABX — Private Automatic Branch eXchange
+PAC — Platform ATO Communicator
+PACS — Public Affairs Correspondence System
+PACT — PAVed Concrete Track: a slab track system
+PADS — Parts And Drawing System
+PAF — Project Authority Form
+PAL — Property Action Line
+PALADIN — Performance And Loading Analysis Database INformation
+PAM — Product Acceptance Manager
+PAMX — Private Manual branch eXchange
+PAT — Performance Action Tracking
+PAX — Private Automatic Exchange
+PAYE — Pay As You Earn (i.e., income tax)
+PBI — Processor Based Interlocking
+PBT — Profit Before Tax
+PBX — Private Branch eXchange
+PC — Personal Computer
+PC — Protection Controller
+PCB — Printed Circuit Board
+PCB — PolyChlorinated Bighenyl, coolant / insulant for transformers, toxic, PCB production was banned in 2001
+PCB — Petty Cash Book
+PCI — Positive Crew Identification
+PCM — Production Control Manager
+PCM — Project Control Manual
+PCS&TE — Profit Centre Signal &
+Telecommunications Engineer
+PCSE(M) — Profit Centre Signal Engineer (Maintenance)
+PCSE(W) — Profit Centre Signal Engineer (Works)
+PCTE — Profit Centre Telecommunications Engineer
+PCV — Petty Cash Voucher
+PD — Project Delivery
+PDAC — Performance Data Accuracy Code
+PDFH — Passenger Demand Forecasting Handbook
+PDH — Plesiochronous Digital Hierarchy
+PDM — Project Development Manager
+PDMX — Programmable Digital Multiplexer
+PDP — Personal Development Plan
+PDS — Project Definition Stage
+PDT — Portable Data Terminal
+PEA — Passenger Emergency Alarm (LUL)
+PEARLS — Personnel Enquiries and Administration Recording Local System
+PEARS — Paladin data Extract And Recording System
+PEDROUTE — Passenger flow modelling tool
+PER — Portable (relocatable) Equipment Room
+PESRCY — PassEnger Service Requirement Compliance Yardstick
+PETS — Public Emergency Telephone System
+PF — Passenger Focus
+PFI — Private Finance Initiative
+PFM — Performance Focus Manager
+PFM — Projects Finance Manager
+PFPI — Process For Performance Improvement
+PH — Professional Head
+PHA — Preliminary Hazard Analysis
+Phase 0 — Period of interim and full running of Virgin ATT at existing line speeds
+Phase 1 — Period of full running on WCML at speeds of up to 200 km/h between 2002 & 2005
+Phase 2 — Full service after April 2005 at speeds of up to speeds of 225 km/h
+PHIS — Performance Historical Information System
+PI — Platform Indicator
+PIC — Person in Charge
+PICOP — Person In Charge Of Possession
+PICP — Pollution Incident Control Plan
+PIDS — Passenger Information Display System
+PIE — Performance Improvement Executive
+PIM — Precursor Indicator Model
+PIMS — Programme Integrated Management System
+PIO — Police Incident Officer
+PIP — Property Investment Panel
+PIPS — Packaging and Investment Planning System
+PIS — Passenger Information System
+PIXC — Passengers In eXcess of Capacity (bespoke regime applied to commuter services)
+pkm — passenger kilometres
+PLC — Public Limited Company
+PLGS — Position Light Ground Signal
+PLJI — Position Light Junction Indicator
+PLOD — Patrolman’s LockOut Device (Trackside staff protection system)
+PLRA — Private Locomotive Registration Agreement
+PLS — Position Light Signal
+PLUG — Pride Local User Group
+PM — Production Manager
+PM — Project Manager
+PMBX — Private Manual Branch Exchange
+PMCS — Project Management Control System
+PMI — Project Manager’s Instruction
+PMT — Project Management Team
+PMUX — Panel MUltipleXer
+PNB — Personal Needs Break
+PO — Purchase Order
+POA — Payment On Account
+POD — Point Of Derailment
+PoD — Probability of Detection
+POM — Possession Optimisation Manager
+POMG — Police Incident Office
+PON — Periodical Operating Notice
+PORV — Possession Only Rail Vehicle
+POSA — Proceed On Sight Authority
+PP — Period available for Possessions
+PPE — Personal Protective Equipment
+PPG — Planning Policy Guidance
+PPM — Panel Processor Module
+PPM — Planned Preventative Maintenance
+PPM — Public Performance Measure
+PPP — Period Possession Plan
+PPP — Public Private Partnership
+PPTC — Powered Plant Training – Chainsaw
+PPTD — Powered Plant Training – Disc Cutter And Class 9 Cutting Of Wheels
+PRB — Personalised Rule Book
+PRDC — Princess Royal Distribution Centre (Royal Mail Raiinet Hub at Willesden)
+PRI — Preliminary Routing Indicator
+PRIDE — Passenger Rail Information Display Equipment
+PRIDE — Possession Resource Information Database
+PRIMA — Professional Rail Industry Management Association
+PRM — Procurement Manager
+PROCSYS — Procurement Control
+PROJEX — PROJECT EXPERIENCE
+PROM — Programmable Read Only Memory
+PROMISE — Planning and ResOurces Monitoring System
+PROMPT — PRIority On Managing Performance Trends
+PSB — Power Signal Box
+PSBR — Public Sector Borrowing Requirement
+PSD — Platform Screen Door
+PSM — Performance Strategy Manager
+PSN — Packet Switched Network
+PSO — Public Service Obligation
+PSPP — Particular Specification for Possession Planning
+PSR — Permanent Speed Restriction
+PSR — Public Service Requirement
+PSRG — Project Strategy Review Group
+PSTN — Public Switched Telecommunications Network
+PT&R — Promotion Transfer & Redundancy
+PTA (see ITA) — Passenger Transport Authority
+PTC — Positive Train Control (US term)
+PTE — Passenger Transport Executive
+PTI — Positive Train Identification
+PTI — Platform Train Interface (LUL)
+PTM — Permanent Timetable Manager
+PTO — Public Telecommunications Operator
+PTS — Personal Track Safety
+PTW — Permit To Work
+PUGI & 2 — Passenger Up Grades 1&2 on (WCML)
+PUWER — Provision and Use of Workplace Equipment Regulations 1992
+PVC — PolyVinyl Chloride
+PW — Parallel Wing
+PW — Permanent Way
+PWay — Permanent Way (track, ballast etc)
+PWI — Permanent Way Institution
+PWM — Pulse Width Modulation
+PWMA — Permanent Way Maintenance Assistant
+PWME — Permanent Way Maintenance Engineer
+PWRA — Private Wagon owners Registration Agreement
+PWS — Permanent Way Supervisor
+PWS — Permanent Way Slack (slang term for TSR)
+PWSS — Permanent Way Section Supervisor
+QA — Quality Assurance
+QAM — Quality Assurance Manager
+QM — Quality Manual
+QMS — Quality Management System
+QRA — Quantified Risk Analysis / Assessment
+QRP — Quarterly Reporting Pack
+QS — Quantity Surveyor
+QX — Qualifying eXceptions
+R&PA — Route and Programme Analyst
+R&R — Rationalisation and Resignalling
+R(SCW)R — Railway (Safety Critical Work) Regulations 1994
+R/G — level crossing with miniature Red & Green warning lights
+R/T — Right Time
+R3G — RAIB Recommendation Review Group
+RA — Radio Agency
+RA — Reporting Accountant
+RA — Right Away platform indicator
+RA — Route Availability
+RAB — Regulatory Asset Base
+RAC — Risk Assessment Criteria
+RAFS — RAil Freight billing System
+RAI — Right Away Indicator
+RAIB — Railway Accident Investigation Branch
+RAILTEL — RAILway TELephone project
+RAM — Random Access Memory
+RAM — Reliability, Availability, Maintainability
+RAMS — Reliability, Availability, Maintainability and Safety
+RAP — Remedial Action Project
+RAR — Railtrack Asset Register
+RBC — Radio Block Centre
+RC — Reinforced Concrete
+RC — Remote Control
+RC — Remotely Controlled (Level Crossing)
+RC — Return Conductor
+RCC — Route Control Centre
+RCD — Residual Current Device
+RCDO — Railway Crossing Diversion Order
+RCE — Regional Civil Engineer
+RCF — Rolling Contact Fatigue
+RCH — Railway Convalescent Home
+RCI — Railtrack Controlled Infrastructure
+RCL — Railway Claims Ltd
+RCM₁ — Reliability Centred Maintenance
+RCM₂ — Remote Condition Monitoring
+RCM² — Combination of RCM₁ and RCM₂
+RCS — Radio Control System
+RD — GEC time division multiplex, type RD
+RDN — Railtrack Director’s Nominee
+RDO — Relevant Delivery Organisation
+RE — Resident Engineer
+REB — Relocateable Equipment Building
+RED — Railtrack Energy Database
+REFOS — Running Edge to Face Of Structure
+REG — Railtrack Executive Group
+REN — Ringer Equivalence Number, unit of load for telephone ringers
+RENFE - Red Nacional de los Ferrocarriles Españoles
+Renlog — infrastructure renewals log
+REPTA — Railway Employees Privilege Ticket Association
+RES — Rail Express Systems (now part of DB Schenker)
+RETB — Radio Electronic Token Block
+RF — Radio Frequency
+RfD (RFD) — Railfreight Distribution (DB Schenker)
+RFF — Réseau Ferré de France (French infrastructure manager)
+RFI — Rete Ferroviaria Italiana (Italian Infrastructure Manager)
+RfL — Rail for London
+RGS — Railway Group Standard
+RGSP — Railway Group Safety Plan
+RHA — Road Haulage Association
+RHS — Rectangular Hollow Section
+RHT — Railway Heritage Trust
+RI — Relay Interlocking
+RIA — Railway Industry Association
+RIAC — Railway Industry Advisory Committee
+RIC — Rail Incident Commander
+RIC — Regolamento Internazionale Carrozze (Regulations for the international exchange of passenger carriages)
+RICA — Regional Independent Commercial Auditor (SRP)
+RICP — Rail Incident Control Post
+RID — Regulations governing International carriage of Dangerous goods by rail
+RIDDOR ’95 — Reporting of Injuries, Disease and Dangerous Occurrences Regulations 1995
+RIDRR — Railway Industry Dispute Resolution Rules (see also CAHA)
+RIFAA — Rail Industry First Aid Association
+RIG — Railway Industry Group
+RII — Relay Interlocking Interface
+RIL — Railtrack Insurance Ltd.
+RIO — Rail Incident Officer
+RIP — (former) Railtrack Investment Panel
+RIPM — Railtrack Investment Prioritisation Model
+RIR — Railways Interoperability Regulations
+RISC — Reduced Instruction Set Computer
+RISSC — Railway Industry Safety Strategy Comittee
+RITC — Railway Industry Training Council
+RITS — Rail Infrastructure Transport System
+RIV — Regolamento Internazionale Vagoni (regulations governing the international exchange of railway freight wagons)
+RIIS — Rail Journey Information System
+RL — Relief Line (see also Slow Line)
+RLE — Rail Link Engineering
+RM — Route Modernisation
+RMG — Railtrack Management Group
+RMMM — Rail Mounted Maintenance Machine
+RMPD — Route Modernisation Product Delivery
+RMS — Risk Management System
+RMS — Root Mean Square
+RMT — national union of Rail, Maritime and Transport Workers
+RNA — Railway Notification of Accidents Regulations
+RO — Rail Operator
+ROA — Right On Arrival
+ROAD — Railway jargon for railway line
+ROCE — Return On Capital Employed
+ROGS — Railways and Other Guided Transport Systems (Safety) Regulations 2006 (supersede ROTS)
+ROI — Return On Investment
+ROM — Read Only Memory
+ROM — Regional Operating Manager
+ROP — Rules Of the Plan
+ROR — Rules of the Route
+ROS — Restriction of Speed
+ROSCO — ROlling Stock leasing COmpany
+ROSIN — Railway Open System Interconnection Network (a European Project)
+ROTP — Rules Of The Plan
+ROTR — Rules Of The Route
+ROTS — Railways and Other Transport Systems (Approval of Works, Plant and Equipment) Regulations 1994 (superseded by ROGS)
+ROW — Renewal Of Way
+RPI — Retail Price Index
+RPI — Revenue Protection Inspector
+RPL — (formerly) Rail Property Ltd.: a subsidiary of the British Railways Board
+RPM — Route Performance Manager (organisation pre 24/02/97)
+RPPS — Rail Passenger Partnership Scheme
+RPS — Radio Propagation System
+RRD — Rolling Radius Difference
+RRI — Route Relay Interlocking
+RRIP — Route Relay Interlocking Processor
+RRNE — Regional Railways North East
+RRNW — Regional Railways North West
+RRV — Road Rail Vehicle
+RS — (former) Railway Safety
+RSA — Railway Study Association
+RSAB — Rolling Stock Acceptance Board
+RSABGP — RSAB Group which provides support to RSAB and projects
+RSAG — Railway Safety Advisory Group
+RSBS — Railway Standard Building Specification
+RSC — Railway Skills Council (Sector Skills Council for the Railway Industry)
+RSC — Railway Safety Case
+RSCI — Real Staff Cost Increase
+RSF — Right Side Failure
+RSL — Rolling Stock Library
+RSPG — Railway Safety Principles & Guidance
+RSRS — Railtrack Safety Rating System
+RSSB — Rail Safety and Standards Board
+RSSP — Railway Strategic Safety Plan
+RSTL — Rail Staff Travel Ltd (Travel Facilities: Pensions Management Ltd 1/2/97)
+SR — ScotRail
+SRA — Strategic Rail Authority
+SRG — Safety Review Group
+SRI — Signalling Restructuring Initiative
+SRP — Station Regeneration Programme
+SRP — Statutory Reporting Pack
+SRP — System Review Panel
+SRP — Safety Review Panel
+SRPTA — SRP Secretariat Technical Advisor
+SRS — Safety Responsibility Statement
+SRT — Sectional Running Time
+SSA — Station Specific Annexe
+SSAP — Statement of Standard Accounting Practice
+SSDC — Signalling Systems Direct Current
+SSG — Safety Strategy Group
+SSG — Standards Steering Group
+SSG — Systems Strategy Group (for Information Systems projects)
+SSHA — SubSystem Hazard Analysis
+SSI — Solid State Interlocking
+SSIC — Solid State Interlocking Controller
+SSIDES — Solid State Interlocking DESign
+SSIDWS — Solid State Interlocking Design WorkstationS
+SSIHA — SubSystem Interface Hazard Analysis
+SSISIM — Solid State Interlocking SIMulator
+SSM — Safety Strategy Manager
+SSn-FTA — Subsystem Fault Tree Analysis
+SSO — Special Stop Order
+SSP — Signalling Supply Point
+SSP — Standard Signalling Principle
+SSP — System Safety Plan
+SSR — Spread Spectrum Radio
+SSR — System Safety Report
+SSRA — Shadow Strategic Rail Authority
+SSRB — Special Speed Restriction Board
+SSSI — Site of Special Scientific Interest
+SSTD — Solid State Train Describer
+SSW — Safe System of Work
+STA — Supplementary Track Access (Agreement)
+STABS — Signalling and Telecommunications Area Budget System
+STAR — Signalling & Telecommunications Asset Register
+STEP — Safety, Teamwork, Excellence, Professionalism
+STN — Special Traffic Notice
+STO — Senior Technical Officer
+STOPS — Signalling and Telecommunications Outturn Processing System
+STP — Short Term Planning: one-off bids for train paths (see also Spot Bids)
+SVP — Safety Verification Plan
+SW — Software
+SWA (swa) — Steel Wire Armoured (cable)
+Swap Body — a system for conveying road freight vehicle bodies on rail vehicles
+SWELTRAC — South WEst London TRAnsport Conference
+SWIFT — Structured ‘What IF?’ Technique: a process for assessing level of safety risk
+SWIMCo — formerly South West Infrastructure Maintenance Company, then AMEC Rail
+SWOT — Strengths, Weaknesses, Opportunities and Threats analysis
+SWT — South West Trains
+SWTH — Signalling Works Testing Handbook
+SYITA — South Yorkshire Integrated Transport Authority
+SYITE —South Yorkshire Integrated Transport Executive
+SYPTE — formerly South Yorkshire Passenger Transport Executive
+SZ — Scotland Zone
+T&H — Tottenham & Hampstead (Barking–Gospel Oak Junction)
+T&RS — Traction & Rolling Stock
+T&V — Trespass & Vandalism
+TAA — Track Access Agreement
+TAC — Telecomms Appreciation Course
+TADS — Telecommunications Asset Database System
+TAG — Track Access Grant
+TAN — Track Access Notice
+TARDIS — TOPS Ancillary Retrospective Data Information Service
+TAS — Technical Assurance Strategy
+TASS — Tilt Authorisation & Speed Supervision
+TB — Token(less) Block
+TB — Trial Balance
+TBA — To Be Advised
+TBE — To Be Evaluated
+TBS — Transmission Based Signalling
+TSTC — Transmission Based Train Control
+TBW — Temporary Block Working
+TC — Track Circuit
+TC — Trailer Composite
+TCA — Track Circuit Actuator
+TCAID — Track Circuit Actuator Interference Detector
+TCB — Track Circuit Block
+TCF — Track Circuit Failure
+TCI — Track Circuit Interrupter
+TCI — Transportation Consultants International
+TCIC — TripCock Isolating Cock (LUL)
+TCM — Time Cycle Maintenance
+TCN — Train Communications Network
+TCOC — Track Circuit Operating Clip
+TCOD — Track Circuit Operating Device
+TCP/IP — Transmission Control Protocol / Internet Protocol
+TCS — Traffic Control System
+TCS — Train Control System
+TCS — Train Crew Supervisor.
+TD — Train Desortber
+TDA — TRUST Delay Attribution
+TD-D — Data Course (Training)
+TDM — Time Division Multiplex
+TDMA — Time Division Multiple Access protocol
+TDMS — Title Deeds Management System
+TDS — Train Diagnostic System
+TD-T — Transmission Course (Training)
+TE — Zone Telecommunications Engineer
+TEB — Telephone Enquiry Bureaux
+TEN — Trans–European Network
+TENS — Trans European Network Strategy
+TESCO — Technical Service Company
+TEU — Twenty Foot Equivalent Unit (container length)
+TF — Trailer First
+TfL — Transport for London
+TFM — Trackside Functional Module
+TGM — Transport Gateway Metro (services proposed for the Woolwich Rail Tunnel)
+TGV — Train á Grande Vitesse: French high speed train
+TIC — Technical Investigation Centre
+TIC — Tester In Charge
+TIC — Track Inspection Coach
+TID — Track IDentity
+TIIS — Train Infrastructure Interface Specification
+TIMI — Telecommunications Maintenance Instruction
+TIPS — Telecommunications Installation and Procurement Service
+TIR — Transports Internationaux Routiers
+TIS — Track Isolating Switch
+TIS — Train Information System
+TIS — Traction Interlock Switch
+TIS — Traction Isolation Switch
+tkm — tonne kilometres
+TL — Through Line
+TL2000 — ThamesLink 2000
+TLC — Telephone protection only Level Crossing
+TMD — Traction Maintenance Depot
+TMD — Train Mass Detector
+TMO — Train crew Manually Operated level crossing
+TMP — Traffic Management Plan
+TMS — Traffic Management System
+TNA — Training Needs Analysis
+TNM — Train Network Management
+TO — Team Organiser
+TO — Technical Officer
+TO — Transport Operator
+TOC — Train Operating Company
+TOC — Test On Completion
+TOHD — TOPS Operations Help Desk
+TOL — Train On Line
+TOOS — Taken Out Of Service
+TOPS — Total Operations Processing System
+TOR — Top of rail
+TORR — Train Operated Route Release
+TORUS — TransportOperations Rapid Update System
+TOU — Train Operating Unit
+TOWS — Train Operated Warning System
+TP&SN — Three Phase and Switched Neutral: type of low voltage switch gear
+TPH — Trains per Hour
+TPC — Trackside Processing Centre
+TPC — Train Performance Calculator
+TPO — Travelling Post Office
+TPPP — Transport Policies and Programme Package (Central Government funding)
+TPS — Traction Power Supply
+TPT — Train Positioning and Tracking
+TRUB — Trailer Restaurant Unclassified Buffet
+TRUK — Trailer Restaurant Unclassified Kitchen
+TPWS — Train Protection and Warning System
+TPWS+ — Train Protection and Warning System Plus for operation at speeds above 70mph
+TPWS-E — Train Protection and Warning System based on Eurobalise technology
+TPWSSA — TPWS Sponsor’s Agent
+TQ — Technical Query
+TQI — Track Quality Index
+TQSUM — Track Quality SUMMARY
+TRACA — TRACK Condition Assessment
+TRAMM — Track Renewal And Maintenance Machine
+TRB — Train Recording Book
+TRB — Transportation Research Board (United States)
+TRC — Track Recording Coach
+TRC — Track Renewals Company*
+TRE — Track Recording Engineer
+TRS — Train Ready to Start
+TRS — Train Reporting System
+TRTS — Train Ready To Start indicator
+TRU — Track Recording Unit
+TRU — Track Renewal Unit
+TRUST — Train RUnning Systems on TOPS
+TRV — Track Recording Vehicle
+TS — Trailer Second
+TS&I — Technical Services and Innovation
+TSC — Track Sectioning Cabin
+TSC — Train Service Code
+TSDB — Train Service Data Base
+TSI — Technical Specification for Interoperability
+TSO — Trailer Second Open
+TSR — Temporary Speed Restriction
+TSSA — Transport Salaried Staffs’ Association
+TSSU — Time Slot Sharing Unit
+TT — Time Table
+TTP — Time Table Processor
+TU — Transport Undertaking
+TUPE — Transfer of Undertakings (Protection of Employment Regulations 1981)
+TVM — Transmission Voie Machine, French ATP
+TWA — Transport & Works Act
+TWE — Track Welding Engineer
+TWO — Transport and Works Order
+TX — Transmitter (in track circuits and communications Links)
+UB — UnderBridge
+UB — Universal Beam
+UEL — Up Electric Line
+UFL — Up Fast Line
+UFN — Until Further Notice
+UGL — Up Goods Line or Up Goods Loop
+UIC — Union Internationale des Chemins de Fer (international union of railways)
+UM (UML) — Up Main (Line)
+UPL — Up Platform Line or Up Passenger Loop
+UPS — Uninterruptible Power Supply
+UPWSF — UnProtected Wrong Side Failure
+URFD — Ultrasonic Rail Flaw Detection
+URFDO — Ultrasonic Rail Flaw Detector Operator
+URL — Up Relief Line
+URS — Up Refuge Siding
+USA — Urgent Safety Advices
+USL — Up Slow Line
+UT — Ultrasonic Testing
+UTS — Ultrasonic Testing System
+UTU — Ultrasonic Test Unit
+UTX — Under Track Crossing
+UWC — User Worked Crossing
+UWG — public road crossing with User Worked Gates
+UWSF — Unprotected Wrong Side Failure
+UWTF — Unprotected Wrongside Telecommunications Failure
+VAB — Vehicle Acceptance Board
+VAL — Validation Action Label
+VAMPIRE — Vehicle dynAmic Modelling Package in a Railway Environment
+VAT — Value Added Tax
+VATT — Virgin Active Tilt Trains
+VCB — Vacuum Circuit Breaker
+VCC — Virgin Cross Country
+VCU — Vehicle Control Unit
+VDP — Vertical Design Package
+VDU — Visual Display Unit, for computers
+VDV — Vibration Dose Value
+VLR — Visitors Location Register
+VM — Value Management
+VNCAB — Vehicle and Network Change Approvals Board
+VO — Variation Order
+VOBC — Vehicle OnBoard Control / Computer
+VPF (VOPF) — Value of Preventing a Fatality criterion
+VPI — Vital Processor Interlocking
+VRAC — Vehicle and Route Acceptance Contract
+VRG — Virgin Rail Group
+VSTP — Very Short Term Plan
+VT — Virgin Trains
+VTI — Vehicle Track Interaction
+V/T-SIC — Vehicle / Track Systems Interface Committee
+VTISM — Vehicle Track Interaction Strategic Model
+V/V-SIC — Vehicle / Vehicle Systems Interface Committee
+VWC — Virgin West Coast
+W — Watt (electrical unit)
+W/m — Watt per metre (heat loss unit)
+W/m² — Watt per metre squared (heat flow unit)
+WS — Work Station
+WA — West Anglia Lines (Liverpool Street to Cambridge & Local Branches)
+WACC — Weighted Average Cost of Capital
+WAGN — West Anglia Great Northern
+WAN — Wide Area Network
+WARC — West Anglia Route Controller
+WARM — West Anglia Route Modernisation
+WARP — West Coast Advanced Recovery Reliability Programme
+WBS — Work Breakdown Structure
+WCML — West Coast Main Line
+WCML RM — West Coast Main Line Route Modernisation
+WCRM — West Coast Route Modernisation
+WEN — Weekly Engineering Notice
+WESTRACE — WESTinghouse Radio Advanced Control Equipment
+WI — Warning Indicator
+WI — Work Instruction
+WILD — Wheel Impact Load Detector
+WIP — Works In Progress
+WLC — Whole Life Cost
+WLL — West London Line
+WLRM — Whole Life Rail Model
+WMITA — West Midlands Integrated Transport Authority
+WMITE — West Midlands Integrated Transport Executive
+WMP — Waste Management Plan
+WMPTA — formerly West Midlands Passenger Transport Authority
+WMPTE — formerly West Midlands Passenger Transport Executive
+WON — Weekly Operating Notice
+WPI — Wholesale Price Index
+WRISA — Wheel Rail System Interface Authority
+WR SSTD — Western Region Solid State Train Deseriber
+WRSL — Westinghouse Rail Systems Ltd.
+WSF — Wrong Side Failure
+WSF — Wrong side Signalling Failure
+WSL — formerly Westinghouse Signals Ltd
+WSO — Work Station Operator
+WSP — Wheel Slip Protection
+WTB — Wire Train Bus
+WTF — Wrong side Telecommunications Failure
+WTT — Working Time Table
+WW — Wales and West Passenger Trains
+WWW — World Wide Web
+WYITA — West Yorkshire Integrated Transport Authority
+WYITE —West Yorkshire Integrated Transport Executive
+WYPTA — formerly West Yorkshire Passenger Transport Authority
+WYPTE — formerly West Yorkshire Passenger Transport Executive
+WYSIWYG — What You See Is What You Get
+XCT — Cross Country Trains
+XLPE — Cross-Linked PolyEthylene
+YB2 — Yellow Book issue 2 (ESM)
+YB3 — Yellow Book issue 3 (ESM)
+YTD — Year To Date
+ZCAM — Zonal Corporate Affairs Manager
+ZCRG — Zonal Commercial Review Group
+ZD — Zone Director
+ZEPE — Zone Electrical and Plant Engineer
+ZFC — Zone Freight Controller
+ZIAR — Zone Infrastructure Asset Register
+ZIP — Zone Investment Panel
+ZOC — Zone Operational Control
+ZPAM — Zonal Public Affairs Manager
+ZPUG — Zonal Possession User Group
+ZTE — Zone Telecommunications Engineer

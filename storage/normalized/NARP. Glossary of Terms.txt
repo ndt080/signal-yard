@@ -1,0 +1,164 @@
+---
+title: "Glossary of Terms"
+sourceName: "Official site of NARP (A North American Rail Solutions Company)"
+sourceUrl: "https://narailproducts.com/glossary-of-terms/"
+regions:
+  - "US"
+  - "Canada"
+lastUpdated: "2025-07-06"
+collectedBy: "A. Piatrou"
+---
+
+Adjustable Separator – A pair of serrated metal blocks that act as a filler between the running rail and guard rail to provide a variable flangeway.
+Adzing Machine – Portable power-operated machine designed to adz the rail seat on ties to provide proper bearing for rail or tie plates.
+Alignment – The horizontal location of railroad as described by curves and tangents.
+Angle Bar – A forged steel bar for connecting the ends of rails with bolts similar to a joint bar, but having  leg or angle shape to gain support from the rail base.
+Annealing – The process of raising and holding the temperature of a steel product above its critical temperature range for a time, followed by slow cooling for the purpose of equalizing internal stresses and increasing ductility and toughness.
+Anti-Splitting Iron – A piece of steel strip, beveled on one edge and bent to desired shape, for application by driving into the end of a tie or timber to control its splitting.
+Apron –  Ferry or Brake – A bridge structure supporting tracks, connecting the car deck of a car ferry with the tracks extending to land, hinges at the shore so that it is free to move vertically at the outboard end to accommodate varying elevations of ferry.
+Ballast –  Rock or gravel material placed on the roadbed for the purpose of holding the track in line and surface.
+Ballast Curb – A longitudinal timber placed along the outer edge of the floor on ballast deck bridges to retain the ballast.
+Basic-Oxygen Steel Making – The term basic oxygen steel making is used generically to describe a process in which molten iron is refined to steel under a basic slag in a cylindrical furnace lined with basic refractories by directing a jet of high-purity gaseous oxygen onto the surface of the hot metal  baths.
+Batter – the flattening of the running surface at rail ends from wheel impact.
+Bessemer Process –  The conversion of liquid pig iron to steel by forcing air at atmospheric temperature through the metallic bath in a converter in which not extraneous fuel is burned, resulting in the oxidation or reduction of the carbon, manganese and silicon to the extent desired and their removal in the form of slag.  As more carbon and manganese are removed than finally required, the proper addition of these elements must be made to the metal on completion of the blow.
+Blank Rails – Rails having no bolt holes.
+Bolted Rail Crossing –  A track crossing in which all the running surfaces are of rolled rail, the parts being held together with bolts.
+Bolted Rigid Frog – A frog built essentially of rolled rails, with fillers between the rails, and held together with bolts.
+Bond – A cable or metal strap connecting two rails to establish an electrical circuit.
+Branding – The identification markings hot rolled in raised figures and letters in the rail web indicating the weight of the rail and section number, name of manufacturer and mill, and year and month rolled.
+Burrs – The rough edges left at the end of a rail when sawed; or on the side of the web when drilling bolt holes.
+Cant –  The inward inclination of a rail, affected by the use of inclined-surface tie plates, usually expressed as a rate of inclination, such as 1 in. 40, etc.
+Car Retarder –  A braking device, usually power-operated, built into a railway track to reduce the speed of cars by means of brake-shoes which when set in braking position, press against the sides of the lower portion of the wheels.
+Carbon Steel (or Plain Steel) – Steel containing only the elements carbon, manganese, phosphorus, sulfur and silicon in addition to iron, the properties of which are due essentially to the percentage of carbon in the steel.
+Clips – Small metal plates used with bolts to secure rails to beams.
+Closure Rails – the rails between the parts of any special trackwork layout, such as the rails between the switch and the frog in a turnout (sometimes called Lead Rails or Connecting Rails).
+Compound Fissure – A progressive fracture in a horizontal split head which turns up or down in the head of the rail as a smooth, bright or dark surface, progressing until substantially at a right angle to the length of the rail.   Compound fissures require examination of both faces of the fracture to locate the horizontal split head from which they originate.
+Compromise Joint – A joint for uniting the abutting ends of rails of different sections or of rails of the same section but of different joint drillings.
+Compromise Rail –  A relatively short rail, the two ends of which are different sections, corresponding with the sections of the rails to which they are to be joined.
+Continuous Welded Rail – A number of rails welded together in lengths of 400 feet or longer. CWR
+Control Cooled – A method of controlling the cooling rate of steel products. For rails this is accomplished by placing 75 to 150 rails in an insulated container and holding temperature to allow hydrogen to escape from the steel.
+Corrugated Rail – A rough condition on the rail tread of alternate ridges and grooves, which develops in service.
+Creosote – As used in wood preserving, is a distillate of coal tar, produced by high-temperature carbonization of bituminous coal; it consists principally of liquid and solid aromatic hydrocarbons, and contains appreciable quantities of tar acids and tar bases; it is heavier than water; and has a continuous boiling range of at least 125 degrees C., beginning at about 200 degrees C.
+Creosote-Petroleum Solution – Creosote with petroleum added in prescribed proportions.
+Critical Temperatures – Temperatures at which, during heating or cooling, marked internal crystalline or molecular transformation occurs in iron or steel, resulting in the absorption or evolution of heat and alterations in the physical properties of the material.
+Cropping – Cutting off the ends of used rails to eliminate battered or damaged portions.
+Crossing (Track) – A structure used where one track crosses another at grade, and consisting of four connected frogs.
+Crossover –  Two turnouts with the track between the frogs arranged to form a continuous passage between two nearby and generally parallel tracks.
+Curve-Compound – A continuous change in direction of alignment by means of two or more contiguous simple curves of different degrees having a common tangent at their junction points.
+Curve, Degree of – the angle subtended at the center of a simple curve by a 100′ chord.
+Curve, Simple – A continuous change in direction of alignment by means of an arc of a single radius.
+Derail – A track structure for derailing rolling stock in case of an emergency.
+Detail Fracture – A progressive fracture originating at or near the surface of the rail head.  These fractures should not be confused with transverse fissures, compound fissures or other defects which have internal origins. Detail fractures usually have their origins in the following types of defects, and progress crosswise into the head of the rail:
+Shell – Where a thin shell of metal becomes separated from the head, usually at the gauge corner.
+Head Checks – Usually at or close to the gauge corner where movement or flow of surface metal is sufficient to start a hairline crack.
+Electric Furnace Process – The process of making steel from steel scrap or from steel scrap and iron ore with limestone as a flux in a furnace, usually of the rocking or tilting type, built of steel plates and lines with fire-brick or other refractory materials, in which the source of heat is low voltage electric current of high amperage.  The furnace lining may be either acid or basic.
+Elevation (of Curves)(Superelevation) – The vertical distance between the outer rail and the inner rail.
+End Hardening – Heat treatment of the top portion of the heads of rails at the ends to minimize rail batter.
+Engine Burn Furnace – A progressive fracture originating in spots where driving wheels have slipped on top of the rail head.  In developing downwards, they frequently resemble the compound or even transverse fissure, with which they should not be confused or classified.
+Fastenings – Joint bars, bolts and spikes.
+Fish Plate – A rail turned on its side and installed with its head against the web of the running rail to establish a flangeway for wheels through highway crossing on paved areas.
+Flangeway – The open way through a track structure which provides a passage way for wheel flanges.
+Flangeway Depths – the depth of the wheel flange passageway, or the vertical distance from the top of the tread surface to the top of the filler or separator introduced between the tread portion and guard portion of a track structure.
+Flangeway Width – The distance between the gauge line and the guard line of a track structure, which provides a passageway for wheel flanges.
+Flare – A tapered widening of the flangeway at the end of the guard line of a track structure, as at the end of a guard rail or at the end of a frog or crossing wing rail.
+Flashbutt Weld – An electric weld process which electrically forges two rails together at the ends to make longer rails.
+Flower Head – A rolling out of the metal on top of the head of a rail toward the sides without showing any indication of a breaking down of the head structure.
+Foot Guard – A filler for the space between converging rails to prevent a person`s foot from becoming accidentally wedged between the rails.
+Frog – A track structure used at the intersection of two running rails to provide support for wheels and passageways for their flanges, thus permitting wheels on either rail to cross the other.
+Frog Angle – The angle formed by the intersecting gauge lines of a frog.
+Frog Number – The number of units of center line length in which the spread is one unit.
+Frog Point – The part of a frog lying between the gauge lines extending from their intersection toward the heel end.
+Theoretical/point – The point of intersection of the gauge lines of a frog.
+Half-inch Point – A point located at a distance from the theoretical point toward the heel equal in inches to one-half the frog number, and at which the spread between the gauge lines is one-half inch. It is the origin from which measurements are usually made.
+Gauge Line – A line 5/8″ below the top of a head on the running side of a rail.
+Gauge (of track) – The distance between the gauge lines, measured at right angles. (the standard gauge is 4’8.5″)
+Gauge (track tool) – A device by which the gauge of a track is established or measured.
+Guard Rail – A rail or other structure laid parallel with the running rails of a track.  Used to prevent wheels from being derailed or to hold wheels in correct alignment to prevent their flanges from striking either the point of turnout, the crossing frogs or the points of switches.
+Guard Rail Brace – A metal shape designed to fit the contour of the side of the guard rail and extend over the tie.  Has provisions for fastening in order to restrain the moving or tilting of the guard rail away from the running rail.
+Guard Rail Clamp – A device consisting of a yoke and fastening designed to engage the running rail and guard rail and hold them in correct relation to each other.
+Heartwood – The inner core of the tree trunk comprising the annual rings containing non-living elements, usually darker in color than sapwood.
+Heel End of Frog – That end of a frog which is the farthest from the switch, or the end which has both point rails and other running surfaces between the gauge lines.
+Heel Length – The distance between the heel end and the half-inch point of a frog, measured along the gauge line.
+Heel Slope – The inclination produced by graduated risers in the part of the switch which reduces the elevation (as the height of the risers decreases) towards the heel of the switch.
+Heel Spread – The distance, at the heel, between the gauge line of a switch rail and the gauge line of its stock rail. (This has been standardized at 6.25″ for straight switches).
+Heel of Switch – The end of a switch rail which is the farther from its point, and nearer the frog.
+Horizontal Split Head –  A horizontal progressive defect originating inside of the rail head, usually 1/4″ or more below the running surface and progressing horizontally in all directions, and generally accompanied by a flat spot on the running surface.  The defect appears as a crack lengthwise of the rail when it reached the side of the rail head.
+Incising – Puncturing the longitudinal surface of poles, ties, and timbers to assure penetration by a preservative and to relieve surface tension as an aid in the control of checking.
+Insulated Switch – A switch in which the fixtures, principally the gauge plates and the switch rods connecting or reaching from one rail to the opposite rail, are provided with insulation so that the electric track circuit will not be shunted.
+Insulations – A device or material that prevents the flow of electric current in a track circuit from passing from one rail to the other or through switches and other track structures.
+Joint – A fastening designed to unite the abutting ends of rails.
+Joint Bar – A steel member used in pairs for the purpose of joining rail ends together and holding them accurately, evenly  and firmly in position.
+Joint Drilling – The spacing holes in the ends of rails or other track structures to receive the bolts for the fastening of joint bars.
+Joint Gap – The distance between the ends of contiguous rails in track.
+Joint, Insulated – A rail joint designed to arrest the flow of electric current from rail to rail by means of insulation, placed so as to separate the rail ends and other metal parts connecting them.
+Lead (Actual) – The length between the actual point of the switch and the half-inch point of the frog measured on the line of the parent track.
+Lead Curve – The curve in the turnout interposed between the switch and the frog.
+Ladder Lead – a short track having several turnouts all diverging to other tracks.
+Line – The condition of the track in regard to uniformity in direction over short distances on tangent, or uniformity in variation in direction over short distances on curves.
+Line Track – Shifting the track laterally to conform to the established alignment
+Location –  The established position of the center line and grade line of a railroad preparatory to its construction.
+Main Line – The principal line or lines of a railway.
+Main Track – A track extending through yards and between stations, upon which trains are operated by time able or train order, or both, or the use of which is governed by block signals.
+Manganese Tipped Switch – A split switch in which the head of one or both of the switch rails is cut away in the point portion and manganese steel pieces fastened to the rail to form the point.
+Open Hearth Process –  The conversion of solid pig iron with the addition of iron or steel scrap to steel through exposure to burning gases in a reverberatory furnace.  In the refining of the molten metal, the carbon is generally reduced considerably below the percentage ultimately required and the metal is thereafter recarburized.  Usually additions of manganese and silicon are also made.
+O.T.M “Other Track Material” – A general term referring to all miscellaneous materials other than rail and ties.
+Out of Face – (Referring to track work) –  Work that proceeds completely and continuously over a given piece of track as distinguished from work at disconnected points only.
+Passing Track – A track which is auxiliary to the main track, for meeting or passing rains.  Same as a siding.
+Penetration – The depth to which preservative enters wood through both lateral and end surfaces.
+Piped Rail –  One with vertical split, usually in the web, due to failure of the sides of the shrinkage cavity in the ingot to unite the rolling.
+Plug, Tie –  Rectangular sections of wood, shaped somewhat like spikes, for driving into holes from which spikes have been withdrawn.
+Point Rail, Switch Rail or Switch Point –  the tapered rail of a split switch.
+Point of Switch (Actual) – That end of the switch rail which is farther from the frog; the point where the spread between the gauge lines of the stock rail and the switch rail is sufficient for a practicable switch point.
+Railbound Manganese Steel Frog –  A frog consisting essentially of a manganese steel body casting fitted into and between rolled rails and held together with bolts.
+Rail Brace – A metal shape designed to fit the contour of the side of the stock rail and extend over the switch plate, with provision for fastening through the plate to the tie, to restrain the movement of the stock rail.  Available as rigid or adjustable.
+Rail Saw – A power machine of either tooth or friction type, used to cut steel rails.
+Retarder – A braking device, without external power, built into a railway track to reduce the speed of cars by means of brake shoes against the side of the lower portions of the wheels and sometimes provided with means for opening it to nullify its breaking effect.
+Running Rail – The rail that carries a wheel, as differentiated from a guard rail or flange rail which carries no weight.
+Run Through – To pass wheels through a turnout from frog to switch in direction against the alignment of its switch points.
+Self-Guarded Frog –  A frog provided with guides or flanges, above its running surface which contact the tread rims of wheels for the purpose of safely guiding their flanges past the point of the frog.
+Shatter Cracks – Minute cracks in the interior of rail heads, seldom closer than 1/2″ from the surface, and visible only after deep etching or high magnification.  They may extend in any direction.  They are caused by rapid (air) cooling, and may be prevented from forming by control cooling the rail.  Shatter cracks also occur in other steel products.
+Shimming Spikes – Long track spikes usually used to correct surface of track by placing wood shims beneath the rail and spiking through the ties.
+Shoulder – That portion of the ballast between the end of the tie and the toe of the ballast slope.  The raised stop on a tie plate at the spike line.
+Siding – Track auxiliary to the main track for meeting or passing trains.
+Slip Switch, Single – A combination of a crossing with one right-hand and one left-hand switch and curve between them withing the limits of the crossing and connecting the two intersecting tracks without the use of separate turnout frogs.
+Softwood – One of the groups of trees which have needle-like or scale-like leaves.  The term has no reference to the softness of the wood.
+Solid Manganese Steel Frog –  A frog consisting essentially of single manganese casting.
+Spiral (when used with respect to track) – A form of easement curve in which the change of degree of curve is uniform throughout its length.
+Splice Bar – See “Joint Bars”
+Split Switch with Graduated Risers – A split switch in which the switch rails are gradually elevated by means of graduated riser plates until they reach the required height above the stock rail and therefore have a heel scope.
+Split Switch with Uniform Risers – A split switch in which the switch rails have a uniform elevation on riser plates for the entire length of the switch.  Since there is no heel slope, the point rail rise runs off the back of the switch in the closure rails.
+Split Web – A longitudinal or diagonal transverse crack in the web of rail.
+Special Trackwork – All rails, track structures and fittings, other than plain unguarded track, which are neither curved nor fabricated before laying.
+Spring Frog – A frog having a movable wing rail which is normally held against the point rail by springs, thus making an unbroken running surface for wheels using one track.  The flanges of wheels on the other track force the movable wing rail away from the point rail to provide a passageway.
+Spur – A track diverging from a main or other track connected at one end only.
+Stamping – The figures and letters indented after hot sawing in the center of the rail web, parallel with the direction of rolling, indicating the serial heat number, the ingot number as cast or rolled and one letter designating the position of each rail with reference to the top of the ingot.
+Stock Rail – A running rail against which the switch point operates.
+Stock Rail Bend- The bend or set which must be given the stock rail at the vertex of a switch to allow it to follow the gauge line of the turnout.
+Surface – The condition of the track as to vertical evenness or smoothness.
+Switch – A track structure used to divert rolling stock from one track to another.
+Switch Angle – The angle included between the gauge line of the switch point at its point and the stock rail.
+Switch Point – The tapered rail of a split switch.
+Switch Point Derail – A derail consisting essentially of a split switch point with the necessary fixtures.
+Switch-Slit – A switch consisting essentially of two movable point rails with the necessary fixtures.
+Switch Spring – A switch with automatic spring device incorporated in the operating mechanism.  This device returns the points to their original positions after the trailing wheels have passed over the flanges.
+Switch Stand – A device for the manual operation of switches, or of movable center points.
+Switch Tongue – A switch piece consisting essentially of a movable tongue with a suitable enclosing and supporting body structure, designed for use on one side of the track, while on the other side there is used either a mate or another tongue switch. (A tongue switch is termed “inside” or “outside”, depending on whether it is placed on the inside or outside of the curve, the “outside tongue switch” being comparatively little used).
+Tamping – Compacting the ballast beneath the ties.
+Tangent – Any straight portion of a railway alignment.
+Thermit Weld – A form of cast weld used to join two rails at the ends.
+Throat of Frog – The point at which the converging wings of a frog are closest together.
+Throw of Switch – The distance through which the points of switch rails are moved sideways, measured along the center line of the No. 1 switch rod or head rod.
+Tie Plate –  A plate installed between a rail and a tie.
+Toe End of Frog –  The end of a frog which is nearer the switch or the end which has both gauge lines between the wing rails or other running surfaces.
+Toe Length – The distance between the toe end and the half-inch point of a frog, measured along the gauge line.
+Toe Spread – The distance between the gauge lines at the toe end of the frog.
+Track – An assembly of rails, ties and fastening over which cars, locomotives and trains are moved.
+Track Bolt – A bolt with a button head and oval or diamond neck and a threaded nut designed to fasten together rails and joint bars.
+Trail – “Run through” a switch without damaging it.
+Transverse Defect – For defects found in detector cars, a tentative group classification, applied prior to the breaking of the rails, of all types of rails defects which have transverse components, such as transverse fissures (TF), compound fissures (CF), and detailed fissures (DF).
+Transverse Fissure – A progressive crosswise fracture starting from a crystalline center or nucleus inside the head from which it spreads outward as a smooth, bright or dark, round or oval surface substantially at a right angle to the length of the rail.  The distinguishing features of transverse fissure from other types of fractures or defects are the crystalline center or nucleus and the nearly smooth surface of the development which surrounds it.
+Turnout – An arrangement of switch and a frog with closure rails, by means of which rolling stock may be diverted from one track to another.
+Turnout Number – The number corresponding to the number of the frog used in the turnout.
+Vertical Split Head – A split along or near the middle of the head of a rail and extending into or through it.  A crack or rust streak may show under the head close to the web, or pieces may be split off the side of the head.
+Wye – A triangular arrangement of tracks on which locomotives, cars and trains may be turned 180 degrees.
+Yard – A system of track within defined limits provided for making up trains, storing cars, and other purposes.  Authorized by timetable or by train order may be made, subject to prescribed signals and rules, or special instructions.
