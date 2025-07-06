@@ -1,0 +1,3967 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d2" for="node" attr.name="railML_version" attr.type="string"/>
+<key id="d1" for="node" attr.name="elementType" attr.type="string"/>
+<key id="d0" for="node" attr.name="description" attr.type="string"/>
+<graph edgedefault="directed"><node id="electrificationSystems">
+  <data key="d0"></data>
+  <data key="d1">rail3:ElectrificationSystems</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="organizationalUnits">
+  <data key="d0"></data>
+  <data key="d1">rail3:OrganizationalUnits</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="speedProfiles">
+  <data key="d0"></data>
+  <data key="d1">rail3:SpeedProfiles</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="positioning">
+  <data key="d0"></data>
+  <data key="d1">rail3:PositioningSystems</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="timePeriods">
+  <data key="d0"></data>
+  <data key="d1">rail3:TimePeriods</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="projects">
+  <data key="d0"></data>
+  <data key="d1">rail3:Projects</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="states">
+  <data key="d0"></data>
+  <data key="d1">rail3:States</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="valueTable">
+  <data key="d0"></data>
+  <data key="d1">rail3:ValueTable</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="segmentTable">
+  <data key="d0"></data>
+  <data key="d1">rail3:SegmentTable</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="designator">
+  <data key="d0"></data>
+  <data key="d1">rail3:Designator</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="electrificationSystem">
+  <data key="d0"></data>
+  <data key="d1">rail3:ElectrificationSystem</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="geometricPositioningSystem">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_GeometricPositioningSystem</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="name">
+  <data key="d0"></data>
+  <data key="d1">gml4rail3:CodeType</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="holiday">
+  <data key="d0"></data>
+  <data key="d1">rail3:Holiday</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linearPositioningSystem">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_LinearPositioningSystem</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="objectRevised">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isValid">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_Validity</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isInfrastructureManager">
+  <data key="d0"></data>
+  <data key="d1">rail3:InfrastructureManager</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isVehicleManufacturer">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehicleManufacturer</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isVehicleOperator">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehicleOperator</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isCustomer">
+  <data key="d0"></data>
+  <data key="d1">rail3:Customer</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isRailwayUndertaking">
+  <data key="d0"></data>
+  <data key="d1">rail3:RailwayUndertaking</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isOperationalUndertaking">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalUndertaking</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isConcessionaire">
+  <data key="d0"></data>
+  <data key="d1">rail3:Concessionaire</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isContractor">
+  <data key="d0"></data>
+  <data key="d1">rail3:Contractor</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isVehicleOwner">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehicleOwner</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isVehicleKeeper">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehicleKeeper</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="organizationalUnit">
+  <data key="d0"></data>
+  <data key="d1">rail3:OrganizationalUnit</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="geometricPositioningSystems">
+  <data key="d0"></data>
+  <data key="d1">rail3:GeometricPositioningSystems</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linearPositioningSystems">
+  <data key="d0"></data>
+  <data key="d1">rail3:LinearPositioningSystems</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="screenPositioningSystems">
+  <data key="d0"></data>
+  <data key="d1">rail3:ScreenPositioningSystems</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="projectArea">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="alternative">
+  <data key="d0"></data>
+  <data key="d1">rail3:Alternative</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="phase">
+  <data key="d0"></data>
+  <data key="d1">rail3:Phase</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="revision">
+  <data key="d0"></data>
+  <data key="d1">rail3:Revision</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="project">
+  <data key="d0"></data>
+  <data key="d1">rail3:Project</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="approvedBy">
+  <data key="d0"></data>
+  <data key="d1">rail3:DoneBy</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="revisedBy">
+  <data key="d0"></data>
+  <data key="d1">rail3:DoneBy</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="checkedBy">
+  <data key="d0"></data>
+  <data key="d1">rail3:DoneBy</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="objectsRevised">
+  <data key="d0"></data>
+  <data key="d1">rail3:ObjectsRevised</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="screenPositioningSystem">
+  <data key="d0"></data>
+  <data key="d1">rail3:ScreenPositioningSystem</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="constantValue">
+  <data key="d0"></data>
+  <data key="d1">rail3:CoeffValue</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="polynomialHeader">
+  <data key="d0"></data>
+  <data key="d1">rail3:PolynomialHeader</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="segmentStartLine">
+  <data key="d0"></data>
+  <data key="d1">rail3:SegmentStartLine</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tilting">
+  <data key="d0"></data>
+  <data key="d1">rail3:TiltingSpecification</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="load">
+  <data key="d0"></data>
+  <data key="d1">rail3:LoadSpecification</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="braking">
+  <data key="d0"></data>
+  <data key="d1">rail3:SpeedProfileBraking</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainType">
+  <data key="d0"></data>
+  <data key="d1">rail3:SpeedProfileTrainType</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="speedProfile">
+  <data key="d0"></data>
+  <data key="d1">rail3:SpeedProfile</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="etcsSpeedProfile">
+  <data key="d0"></data>
+  <data key="d1">rail3:SpeedProfileEtcs</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="validity">
+  <data key="d0"></data>
+  <data key="d1">rail3:Validity</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="state">
+  <data key="d0"></data>
+  <data key="d1">rail3:State</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="holidays">
+  <data key="d0"></data>
+  <data key="d1">rail3:Holidays</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="timePeriod">
+  <data key="d0"></data>
+  <data key="d1">rail3:TimePeriod</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="value">
+  <data key="d0"></data>
+  <data key="d1">rail3:Value</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="columnHeader">
+  <data key="d0"></data>
+  <data key="d1">rail3:ColumnHeader</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="valueLine">
+  <data key="d0"></data>
+  <data key="d1">rail3:ValueLine</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="weekPatterns">
+  <data key="d0"></data>
+  <data key="d1">rail3:WeekPatterns</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="times">
+  <data key="d0"></data>
+  <data key="d1">rail3:PeriodRule</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="genericOperatingPeriod">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericOperatingPeriodDescription</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operatingDay">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperatingDay</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="dateSet">
+  <data key="d0"></data>
+  <data key="d1">rail3:DateWithBitmask</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="containedSituation">
+  <data key="d0"></data>
+  <data key="d1">rail3:TimePeriodRuleSituation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="exceedsOrEqualsAxleLoad">
+  <data key="d0"></data>
+  <data key="d1">rail3:AxleLoadSpecification</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="places">
+  <data key="d0"></data>
+  <data key="d1">rail3:Places</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="service">
+  <data key="d0"></data>
+  <data key="d1">rail3:Service</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="period">
+  <data key="d0"></data>
+  <data key="d1">rail3:ClockTimePeriod</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="periodBitmask">
+  <data key="d0"></data>
+  <data key="d1">rail3:CalendarTimePeriodWithBitmask</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="weekDayPeriod">
+  <data key="d0"></data>
+  <data key="d1">rail3:WeekDayPeriodWithTime</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="auxiliaryBrakes">
+  <data key="d0"></data>
+  <data key="d1">rail3:tAuxiliaryBrakes</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="elementBasedPeriodRule">
+  <data key="d0"></data>
+  <data key="d1">rail3:ElemBasedPeriodRule</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="periodRule">
+  <data key="d0"></data>
+  <data key="d1">rail3:PeriodRule</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="publicHolidayPeriodRule">
+  <data key="d0"></data>
+  <data key="d1">rail3:PublicHolidayPeriodRule</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="weekPattern">
+  <data key="d0"></data>
+  <data key="d1">rail3:WeekPattern</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isEurobalise">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaliseEurobalise</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="applicationType">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaliseGroupApplicationType</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedWithInfrastructureElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaliseGroupConnection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="functionalType">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaliseGroupFunctionalType</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isEurobaliseGroup">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaliseGroupEurobalise</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="baliseGroup">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaliseGroup</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="balise">
+  <data key="d0"></data>
+  <data key="d1">rail3:Balise</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="markedByInfrastructureElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="border">
+  <data key="d0"></data>
+  <data key="d1">rail3:Border</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="bufferStop">
+  <data key="d0"></data>
+  <data key="d1">rail3:BufferStop</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="centerPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:PointTypeCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="straightBranch">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchCrossingBranch</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="crossing">
+  <data key="d0"></data>
+  <data key="d1">rail3:Crossing</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="derailerIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:DerailerIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linkedWith">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="detector">
+  <data key="d0"></data>
+  <data key="d1">rail3:Detector</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="electrificationSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:ElectrificationSection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="electrificationSystemRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="energyCatenary">
+  <data key="d0"></data>
+  <data key="d1">rail3:EnergyCatenary</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="energyPantograph">
+  <data key="d0"></data>
+  <data key="d1">rail3:EnergyPantograph</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="energyRollingstock">
+  <data key="d0"></data>
+  <data key="d1">rail3:EnergyRollingstock</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="etcsElectrification">
+  <data key="d0"></data>
+  <data key="d1">rail3:ElectrificationEtcs</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasContactWire">
+  <data key="d0"></data>
+  <data key="d1">rail3:ContactWire</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="pantographSpacing">
+  <data key="d0"></data>
+  <data key="d1">rail3:PantographSpacing</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="phaseSeparationSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:PhaseSeparationSection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="systemSeparationSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:SystemSeparationSection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="maxTrainCurrent">
+  <data key="d0"></data>
+  <data key="d1">rail3:MaxTrainCurrent</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="gmlLocation">
+  <data key="d0"></data>
+  <data key="d1">rail3:GmlLocation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="networkLocation">
+  <data key="d0"></data>
+  <data key="d1">rail3:LocationNetwork</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="etcsArea">
+  <data key="d0"></data>
+  <data key="d1">rail3:EtcsArea</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="switchToLevel">
+  <data key="d0"></data>
+  <data key="d1">rail3:EtcsLevelTransitionDestination</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="etcsLevelTransition">
+  <data key="d0"></data>
+  <data key="d1">rail3:EtcsLevelTransition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="balises">
+  <data key="d0"></data>
+  <data key="d1">rail3:Balises</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="baliseGroups">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaliseGroups</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="borders">
+  <data key="d0"></data>
+  <data key="d1">rail3:Borders</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="bufferStops">
+  <data key="d0"></data>
+  <data key="d1">rail3:BufferStops</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="crossings">
+  <data key="d0"></data>
+  <data key="d1">rail3:Crossings</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="derailersIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:DerailersIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="detectors">
+  <data key="d0"></data>
+  <data key="d1">rail3:Detectors</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="electrifications">
+  <data key="d0"></data>
+  <data key="d1">rail3:Electrifications</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="etcsAreas">
+  <data key="d0"></data>
+  <data key="d1">rail3:EtcsAreas</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="etcsLevelTransitions">
+  <data key="d0"></data>
+  <data key="d1">rail3:EtcsLevelTransitions</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="keyLocksIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:KeyLocksIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="levelCrossingsIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingsIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="lines">
+  <data key="d0"></data>
+  <data key="d1">rail3:Lines</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linesideElectronicUnitsIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:LinesideElectronicUnitsIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="loadingGauges">
+  <data key="d0"></data>
+  <data key="d1">rail3:LoadingGauges</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="loops">
+  <data key="d0"></data>
+  <data key="d1">rail3:Loops</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="mileageChanges">
+  <data key="d0"></data>
+  <data key="d1">rail3:MileageChanges</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalPoints">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalPoints</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="overCrossings">
+  <data key="d0"></data>
+  <data key="d1">rail3:OverCrossings</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="platforms">
+  <data key="d0"></data>
+  <data key="d1">rail3:Platforms</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="platformEdges">
+  <data key="d0"></data>
+  <data key="d1">rail3:PlatformEdges</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="radioBlockCentreBorders">
+  <data key="d0"></data>
+  <data key="d1">rail3:RbcBorders</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="restrictionAreas">
+  <data key="d0"></data>
+  <data key="d1">rail3:RestrictionAreas</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="serviceSections">
+  <data key="d0"></data>
+  <data key="d1">rail3:ServiceSections</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalsIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalsIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="speeds">
+  <data key="d0"></data>
+  <data key="d1">rail3:Speeds</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="stoppingPlaces">
+  <data key="d0"></data>
+  <data key="d1">rail3:StoppingPlaces</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="switchesIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchesIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tracks">
+  <data key="d0"></data>
+  <data key="d1">rail3:Tracks</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackBeds">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackBeds</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackGauges">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackGauges</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainDetectionElements">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainDetectionElements</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainProtectionElements">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainProtectionElements</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainRadios">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainRadios</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tunnelGatesIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:TunnelGatesIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="underCrossings">
+  <data key="d0"></data>
+  <data key="d1">rail3:UnderCrossings</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="weightLimits">
+  <data key="d0"></data>
+  <data key="d1">rail3:WeightLimits</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="typeDesignator">
+  <data key="d0"></data>
+  <data key="d1">rail3:TypeDesignator</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="elementState">
+  <data key="d0"></data>
+  <data key="d1">rail3:SubSchemaElementState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="location">
+  <data key="d0"></data>
+  <data key="d1">rail3:LocationRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isLimitedBy">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="genericArea">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericArea</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="horizontalCurves">
+  <data key="d0"></data>
+  <data key="d1">rail3:HorizontalCurves</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="gradientCurves">
+  <data key="d0"></data>
+  <data key="d1">rail3:GradientCurves</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="geometryPoints">
+  <data key="d0"></data>
+  <data key="d1">rail3:GeometryPoints</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="beginsInGeometryPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="endsInGeometryPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="geometryPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:GeometryPoint</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="lineString">
+  <data key="d0"></data>
+  <data key="d1">rail3:LineTypeCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="point">
+  <data key="d0"></data>
+  <data key="d1">rail3:PointTypeCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="gradientCurve">
+  <data key="d0"></data>
+  <data key="d1">rail3:GradientCurve</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="horizontalCurve">
+  <data key="d0"></data>
+  <data key="d1">rail3:HorizontalCurve</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="topology">
+  <data key="d0"></data>
+  <data key="d1">rail3:Topology</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="geometry">
+  <data key="d0"></data>
+  <data key="d1">rail3:Geometry</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="functionalInfrastructure">
+  <data key="d0"></data>
+  <data key="d1">rail3:FunctionalInfrastructure</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="physicalFacilities">
+  <data key="d0"></data>
+  <data key="d1">rail3:PhysicalFacilities</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="genericLocations">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericLocations</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="keyLockIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:KeyLockIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="etcsLevelCrossing">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingEtcs</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linkedSpeedSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="protection">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingProtection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="roadSideLights">
+  <data key="d0"></data>
+  <data key="d1">rail3:RoadSideStructure</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="roadSideBarriers">
+  <data key="d0"></data>
+  <data key="d1">rail3:RoadSideStructure</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="levelCrossingIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="beginsInOP">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="endsInOP">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="length">
+  <data key="d0"></data>
+  <data key="d1">rail3:Length</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="lineTrafficCode">
+  <data key="d0"></data>
+  <data key="d1">rail3:LineTrafficCode</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="lineCombinedTransportCode">
+  <data key="d0"></data>
+  <data key="d1">rail3:LineCombinedTransportCode</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="lineLayout">
+  <data key="d0"></data>
+  <data key="d1">rail3:LineLayout</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linePerformance">
+  <data key="d0"></data>
+  <data key="d1">rail3:LinePerformance</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="lineOperation">
+  <data key="d0"></data>
+  <data key="d1">rail3:LineOperation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="allowedLoadingGauge">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="allowedWeight">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="line">
+  <data key="d0"></data>
+  <data key="d1">rail3:Line</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedToBaliseGroup">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaliseGroupConnectionLeu</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedToBalise">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaliseConnection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedToEuroloop">
+  <data key="d0"></data>
+  <data key="d1">rail3:EuroloopConnection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linesideElectronicUnitIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:LinesideElectronicUnitIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="kinematicProfile">
+  <data key="d0"></data>
+  <data key="d1">rail3:LoadingGaugeProfile</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="staticProfile">
+  <data key="d0"></data>
+  <data key="d1">rail3:LoadingGaugeProfile</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="loadingGauge">
+  <data key="d0"></data>
+  <data key="d1">rail3:LoadingGauge</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="circle">
+  <data key="d0"></data>
+  <data key="d1">rail3:Circle</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="polygon">
+  <data key="d0"></data>
+  <data key="d1">rail3:Polygon</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isEuroLoop">
+  <data key="d0"></data>
+  <data key="d1">rail3:LoopEuroLoop</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="announcedByBaliseGroup">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaliseGroupReference</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="loop">
+  <data key="d0"></data>
+  <data key="d1">rail3:Loop</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="mileageChange">
+  <data key="d0"></data>
+  <data key="d1">rail3:MileageChange</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="netConnectorRelation">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetConnectorRelation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="netConnector">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetConnector</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="netElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetElement</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="netRelation">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetRelation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="from">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetElementRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="via">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetElementRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="to">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetElementRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="netTravelPath">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetTravelPath</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="network">
+  <data key="d0"></data>
+  <data key="d1">rail3:Network</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="ownsPlatform">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="ownsTrack">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="ownsSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="ownsStoppingPlace">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="ownsServiceSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="ownsInfrastructureElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="infrastructureManagerRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedToLine">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="limitedByBorder">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="opEquipment">
+  <data key="d0"></data>
+  <data key="d1">rail3:OpEquipment</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="opOperations">
+  <data key="d0"></data>
+  <data key="d1">rail3:OpOperations</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalPoint</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="opOperation">
+  <data key="d0"></data>
+  <data key="d1">rail3:OpOperation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tunnelResistance">
+  <data key="d0"></data>
+  <data key="d1">rail3:TunnelResistance</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="overCrossing">
+  <data key="d0"></data>
+  <data key="d1">rail3:OverCrossing</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="ownsPlatformEdge">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="width">
+  <data key="d0"></data>
+  <data key="d1">rail3:Length</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="platformEdge">
+  <data key="d0"></data>
+  <data key="d1">rail3:PlatformEdge</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="platform">
+  <data key="d0"></data>
+  <data key="d1">rail3:Platform</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="shape">
+  <data key="d0"></data>
+  <data key="d1">rail3:LineTypeCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="radioBlockCentreBorder">
+  <data key="d0"></data>
+  <data key="d1">rail3:RbcBorder</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="restrictionArea">
+  <data key="d0"></data>
+  <data key="d1">rail3:RestrictionArea</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="serviceSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:ServiceSection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToElectrificationSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isAnnouncementSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalAnnouncement</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isCatenarySignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalCatenary</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isDangerSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalDanger</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isEtcsSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalEtcs</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isInformationSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalInformation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isLevelCrossingSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalLevelCrossing</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isMilepost">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalMilepost</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isSpeedSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalSpeed</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isStopPost">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalStopPost</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isTrainMovementSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalTrainMovement</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isTrainRadioSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalRadio</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isVehicleEquipmentSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalVehicleEquipment</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isLevelTransitionSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelTransitionSignal</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedWithBaliseGroup">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="protectedByBaliseGroup">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalConstruction">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalConstruction</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToLevelCrossing">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToLine">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToTrainRadioSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToBeginOfSpeedSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToEndOfSpeedSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToStoppingPlace">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="speedSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:SpeedSection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="validForSpeedProfile">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="allowsUsageOfPlatformEdge">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="validForTrainMovement">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainMovement</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="stoppingPlace">
+  <data key="d0"></data>
+  <data key="d1">rail3:StoppingPlace</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="switchIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="leftBranch">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchCrossingBranch</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="rightBranch">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchCrossingBranch</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="turningBranch">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchCrossingBranch</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="locationReference">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchLocationReference</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="netElements">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetElements</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="netRelations">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetRelations</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="networks">
+  <data key="d0"></data>
+  <data key="d1">rail3:Networks</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="netTravelPaths">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetTravelPaths</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="netConnectors">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetConnectors</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="netConnectorRelations">
+  <data key="d0"></data>
+  <data key="d1">rail3:NetConnectorRelations</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackBegin">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackEnd">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="belongsToParent">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackBed">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackBed</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackGauge">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackGauge</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="track">
+  <data key="d0"></data>
+  <data key="d1">rail3:Track</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="limitsTrainDetectionElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainDetectionElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainDetectionElement</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainProtectionElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainProtectionElement</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainRadio">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainRadio</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tunnelGateIS">
+  <data key="d0"></data>
+  <data key="d1">rail3:TunnelGateIS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="resistanceFactor">
+  <data key="d0"></data>
+  <data key="d1">rail3:ResistanceFactor</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="allowedWeightLimit">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="underCrossing">
+  <data key="d0"></data>
+  <data key="d1">rail3:UnderCrossing</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="weightLimit">
+  <data key="d0"></data>
+  <data key="d1">rail3:WeightLimit</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="crossesElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:CrossedElement</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="delayBySwitchPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchRelatedDelay</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="aspectRelatedDelay">
+  <data key="d0"></data>
+  <data key="d1">rail3:AspectRelatedBarrierDelay</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalDelayTime">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalDelayTime</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activatedBy">
+  <data key="d0"></data>
+  <data key="d1">rail3:ApproachStartingDetector</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersTo">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="masterAspect">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalAndAspect</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="slaveAspect">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalAndAspect</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="distantAspect">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalAndAspect</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalsSpeedProfile">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="appliesToRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tracksIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:TracksIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="endOfTracks">
+  <data key="d0"></data>
+  <data key="d1">rail3:EndOfTracks</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tvdSections">
+  <data key="d0"></data>
+  <data key="d1">rail3:TvdSections</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="switchesIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchesIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="derailersIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:DerailersIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="movableCrossings">
+  <data key="d0"></data>
+  <data key="d1">rail3:MovableCrossings</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="levelCrossingsIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingsIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="keys">
+  <data key="d0"></data>
+  <data key="d1">rail3:Keys</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="keyLocksIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:KeyLocksIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="genericDetectors">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericDetectors</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="movableBridges">
+  <data key="d0"></data>
+  <data key="d1">rail3:MovableBridges</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tunnelGatesIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:TunnelGatesIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalIndicators">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalIndicators</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeStatusIndicators">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteStatusIndicators</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="stationIndicators">
+  <data key="d0"></data>
+  <data key="d1">rail3:StationIndicators</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainNumberFields">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainNumberFields</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalsIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalsIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="interfaces">
+  <data key="d0"></data>
+  <data key="d1">rail3:Interfaces</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="workZones">
+  <data key="d0"></data>
+  <data key="d1">rail3:WorkZones</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="localOperationAreas">
+  <data key="d0"></data>
+  <data key="d1">rail3:LocalOperationAreas</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="shuntingZones">
+  <data key="d0"></data>
+  <data key="d1">rail3:ShuntingZones</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="dangerAreas">
+  <data key="d0"></data>
+  <data key="d1">rail3:DangerAreas</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="emergencyStopAreas">
+  <data key="d0"></data>
+  <data key="d1">rail3:EmergencyStopAreas</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="permissionZones">
+  <data key="d0"></data>
+  <data key="d1">rail3:PermissionZones</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeReleaseGroupsAhead">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteReleaseGroupsAhead</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeReleaseGroupsRear">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteReleaseGroupsRear</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routes">
+  <data key="d0"></data>
+  <data key="d1">rail3:Routes</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="conflictingRoutes">
+  <data key="d0"></data>
+  <data key="d1">rail3:ConflictingRoutes</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeRelations">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteRelations</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="combinedRoutes">
+  <data key="d0"></data>
+  <data key="d1">rail3:CombinedRoutes</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="overlaps">
+  <data key="d0"></data>
+  <data key="d1">rail3:Overlaps</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="dangerPoints">
+  <data key="d0"></data>
+  <data key="d1">rail3:DangerPoints</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="destinationPoints">
+  <data key="d0"></data>
+  <data key="d1">rail3:DestinationPoints</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="powerSuppliesIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:PowerSuppliesIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linesideElectronicUnitsIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:LinesideElectronicUnitsIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="assetsForInterlocking">
+  <data key="d0"></data>
+  <data key="d1">rail3:AssetsForInterlocking</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tvdDetectorRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="comboEntry">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="comboExit">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="containsRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="combinedRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:CombinedRoute</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="networkName">
+  <data key="d0"></data>
+  <data key="d1">rail3:Name</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="dnsServer">
+  <data key="d0"></data>
+  <data key="d1">rail3:IPv4AddressEntry</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasName">
+  <data key="d0"></data>
+  <data key="d1">rail3:Name</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasCommunicationSettings">
+  <data key="d0"></data>
+  <data key="d1">rail3:CommunicationSettings</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="belongsToOperationalPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="belongsToInfrastructureManager">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="conflictsWithRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="reasonForConflict">
+  <data key="d0"></data>
+  <data key="d1">rail3:ConflictReason</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="conflictingRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:ConflictingRoute</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controlledInterlocking">
+  <data key="d0"></data>
+  <data key="d1">rail3:ControlledSignalBox</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controlledSystemAsset">
+  <data key="d0"></data>
+  <data key="d1">rail3:SystemAssetConnectedToIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedSignalBox">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controlledAssets">
+  <data key="d0"></data>
+  <data key="d1">rail3:ControlledAssets</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeSequences">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteSequences</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controller">
+  <data key="d0"></data>
+  <data key="d1">rail3:Controller</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedCrossingAndPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:CrossingAndPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToCrossing">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="givenPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchAndGivenPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="detectorInState">
+  <data key="d0"></data>
+  <data key="d1">rail3:DetectorInState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalWithAspect">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalWithAspect</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="dangerArea">
+  <data key="d0"></data>
+  <data key="d1">rail3:DangerArea</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="lastSupervisedSectionBeforeDangerPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="situatedAtTrackAsset">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="dangerPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:DangerPoint</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedDerailerAndPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:DerailerAndPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToDerailer">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="lockedTrack">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="derailerIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:DerailerIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="destinationPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteExit</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedDetectorAndState">
+  <data key="d0"></data>
+  <data key="d1">rail3:DetectorAndState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToDetector">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="givenState">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingAndGivenState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="groupType">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToMember">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasStationIndicator">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToInfrastructureElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="keyLockInState">
+  <data key="d0"></data>
+  <data key="d1">rail3:KeyLockInState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="levelCrossingInState">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingInState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="emergencyStopArea">
+  <data key="d0"></data>
+  <data key="d1">rail3:EmergencyStopArea</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="endOfTrack">
+  <data key="d0"></data>
+  <data key="d1">rail3:EndOfTrack</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="usesLamp">
+  <data key="d0"></data>
+  <data key="d1">rail3:LampRefAspect</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="detectorType">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="genericDetector">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericDetector</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="ownsSetsOfAssets">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="usesTypes">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericTypes</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="specificInfrastructureManager">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericInfrastructureManager</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasAspect">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericAspect</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasTVDresetStrategy">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericResetStrategy</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasRouteType">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericRouteType</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasLevelCrossingType">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingTypeList</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasElementGroupType">
+  <data key="d0"></data>
+  <data key="d1">rail3:ElementGroupingTypes</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasDetectorTypes">
+  <data key="d0"></data>
+  <data key="d1">rail3:DetectorTypes</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasOperatorCommand">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperatorCommand</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasHmiIndication">
+  <data key="d0"></data>
+  <data key="d1">rail3:Indication</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasSignalLamp">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalLamps</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasCommand">
+  <data key="d0"></data>
+  <data key="d1">rail3:CodedEntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasIndication">
+  <data key="d0"></data>
+  <data key="d1">rail3:CodedEntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="scope">
+  <data key="d0"></data>
+  <data key="d1">rail3:Scope</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="textMessage">
+  <data key="d0"></data>
+  <data key="d1">rail3:Name</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="command">
+  <data key="d0"></data>
+  <data key="d1">rail3:InputOutput</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="message">
+  <data key="d0"></data>
+  <data key="d1">rail3:InputOutput</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="initStatus">
+  <data key="d0"></data>
+  <data key="d1">rail3:InitStatus</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="interface">
+  <data key="d0"></data>
+  <data key="d1">rail3:Interface</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="assetsForInterlockings">
+  <data key="d0"></data>
+  <data key="d1">rail3:AssetsForInterlockings</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controllers">
+  <data key="d0"></data>
+  <data key="d1">rail3:Controllers</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="objectControllers">
+  <data key="d0"></data>
+  <data key="d1">rail3:ObjectControllers</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalBoxes">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalBoxes</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="radioBlockCentres">
+  <data key="d0"></data>
+  <data key="d1">rail3:RadioBlockCentres</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="specificInfrastructureManagers">
+  <data key="d0"></data>
+  <data key="d1">rail3:GenericInfrastructureManagers</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="lastOwnTvdSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="firstRemoteTvdSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="incomingRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="outgoingRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasInterface">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isPhysical">
+  <data key="d0"></data>
+  <data key="d1">xs:boolean</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="acceptsKey">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasTvdSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasSlaveLock">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="keyLockIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:KeyLockIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="key">
+  <data key="d0"></data>
+  <data key="d1">rail3:Key</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedLevelCrossingAndState">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingAndState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isLevelCrossingType">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="deactivatedBy">
+  <data key="d0"></data>
+  <data key="d1">rail3:BarrierDeactivator</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activationCondition">
+  <data key="d0"></data>
+  <data key="d1">rail3:ActivationCondition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasLevelCrossingTrack">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="levelCrossingIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="evaluatesSignalLamp">
+  <data key="d0"></data>
+  <data key="d1">rail3:LampEvaluation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="evaluatesSignalIndicatorLamp">
+  <data key="d0"></data>
+  <data key="d1">rail3:LampEvaluation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linesideElectronicUnitIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:LinesideElectronicUnitIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="deactivationKey">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="switchInPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchInPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="derailerInPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:DerailerInPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="crossingInPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:CrossingInPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="releasedForLocalOperation">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="localOperationArea">
+  <data key="d0"></data>
+  <data key="d1">rail3:LocalOperationArea</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedLockAndState">
+  <data key="d0"></data>
+  <data key="d1">rail3:LockAndState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToKeyLock">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="takesControlOf">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="movableBridge">
+  <data key="d0"></data>
+  <data key="d1">rail3:MovableBridge</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="branchUpLeft">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="branchUpRight">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="branchDownLeft">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="branchDownRight">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasFoulingTrainDetectors">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="movableCrossing">
+  <data key="d0"></data>
+  <data key="d1">rail3:MovableCrossing</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasGaugeClearanceMarker">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedToPowerSupply">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedMovableElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controlsTrackAsset">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackAssetConnectedToIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="objectController">
+  <data key="d0"></data>
+  <data key="d1">rail3:ObjectController</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activeForApproachRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedToTrackAsset">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiresSwitchInPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchAndGivenPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiresLevelCrossingInState">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingAndGivenState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="overlapRelease">
+  <data key="d0"></data>
+  <data key="d1">rail3:OverlapRelease</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="additionalRelation">
+  <data key="d0"></data>
+  <data key="d1">rail3:RelationReference</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="releaseTriggerSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="overlapReleaseTimer">
+  <data key="d0"></data>
+  <data key="d1">rail3:OverlapReleaseTimer</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="overlap">
+  <data key="d0"></data>
+  <data key="d1">rail3:Overlap</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="canBeControlledBy">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controlledElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="permissionZone">
+  <data key="d0"></data>
+  <data key="d1">rail3:PermissionZone</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="powerSupplyIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:PowerSupplyIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasModeIndicator">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="etcsGeneralData">
+  <data key="d0"></data>
+  <data key="d1">rail3:EtcsGeneralData</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isLimitedByRadioBlockCentreBorder">
+  <data key="d0"></data>
+  <data key="d1">rail3:RbcBorderRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="containedTrackAssets">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="radioBlockCentre">
+  <data key="d0"></data>
+  <data key="d1">rail3:RadioBlockCentre</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackAssetInArea">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="handlesRouteType">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeActivationSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteActivationSection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="facingSwitchInPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchAndPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trailingSwitchInPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchAndPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeEntry">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteEntry</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="intermediateCodePoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasReleaseGroup">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="switchPositionInDepartureTrack">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchAndPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeExit">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteExit</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activationSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasIndicator">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasSignalIndicator">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="nonReplacement">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasDangerPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasOverlap">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasRouteReleaseTrigger">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteReleaseTrigger</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="objectName">
+  <data key="d0"></data>
+  <data key="d1">rail3:Name</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiredSwitchPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchAndGivenPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiredDerailerPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:DerailerAndGivenPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiredCrossingPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:CrossingAndGivenPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiredDetectorState">
+  <data key="d0"></data>
+  <data key="d1">rail3:DetectorAndGivenState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiredSignalAspect">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalAndGivenAspect</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiredSectionState">
+  <data key="d0"></data>
+  <data key="d1">rail3:SectionAndGivenVacancy</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiredKeyLockState">
+  <data key="d0"></data>
+  <data key="d1">rail3:LockAndGivenState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiredLevelCrossingState">
+  <data key="d0"></data>
+  <data key="d1">rail3:LevelCrossingAndGivenState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="requiredTunnelGateState">
+  <data key="d0"></data>
+  <data key="d1">rail3:TunnelGateAndGivenState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeRelation">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteRelation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeReleaseGroupAhead">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteReleaseGroupAhead</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeReleaseGroupRear">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteReleaseGroupRear</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="route">
+  <data key="d0"></data>
+  <data key="d1">rail3:Route</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeSequence">
+  <data key="d0"></data>
+  <data key="d1">rail3:CombinedRoute</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeStatusIndicator">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteStatusIndicator</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedSectionAndVacancy">
+  <data key="d0"></data>
+  <data key="d1">rail3:SectionAndVacancy</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="shuntingZone">
+  <data key="d0"></data>
+  <data key="d1">rail3:ShuntingZone</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToIndicator">
+  <data key="d0"></data>
+  <data key="d1">rail3:IndicatorAndAspectRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="showsAspect">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedSignalAndAspect">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalAndAspect</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controlsSystemAsset">
+  <data key="d0"></data>
+  <data key="d1">rail3:SystemAssetConnectedToIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controlsRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controlsCombinedRoute">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controlsInterface">
+  <data key="d0"></data>
+  <data key="d1">rail3:InterlockingInterface</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="controlledBy">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="implementsSignalplan">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalPlan</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="implementsElementGroup">
+  <data key="d0"></data>
+  <data key="d1">rail3:ElementGroup</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasPermissionZone">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasConflictingRoutes">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasConfiguration">
+  <data key="d0"></data>
+  <data key="d1">rail3:Configuration</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedToRadioBlockCentre">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalBox">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalBox</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasDelayedSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="protectsBlockExit">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasRepeater">
+  <data key="d0"></data>
+  <data key="d1">rail3:RepeaterSignal</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasRouteStatusIndicator">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasLamp">
+  <data key="d0"></data>
+  <data key="d1">rail3:LampRefSignal</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="allowsAspect">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalIndicator">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalIndicator</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="aspectRelation">
+  <data key="d0"></data>
+  <data key="d1">rail3:AspectRelation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="signalIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="givenAspect">
+  <data key="d0"></data>
+  <data key="d1">rail3:SignalAndGivenAspect</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="stationIndicator">
+  <data key="d0"></data>
+  <data key="d1">rail3:StationIndicator</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedSwitchAndPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchAndPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToSwitch">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="switchIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="branchLeft">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="branchRight">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="branchTip">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasPositionRestriction">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchPositionRestriction</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedSwitchInPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:SwitchAndPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedDerailerInPosition">
+  <data key="d0"></data>
+  <data key="d1">rail3:DerailerAndPosition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedSystemAsset">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="assetName">
+  <data key="d0"></data>
+  <data key="d1">rail3:Name</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectedTrackAsset">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="primaryInStack">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainNumberField">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainNumberField</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="relatedToTunnelGateAndState">
+  <data key="d0"></data>
+  <data key="d1">rail3:TunnelGateState</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasGateSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tunnelGateIL">
+  <data key="d0"></data>
+  <data key="d1">rail3:TunnelGateIL</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refersToTunnelGate">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasDemarcatingBufferstop">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasExitSignal">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasDemarcatingTraindetector">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasResetStrategy">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasTrainNumberField">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainNumberFieldRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="hasTrackElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tvdSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:TvdSection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activationLock">
+  <data key="d0"></data>
+  <data key="d1">rail3:EntityILref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="workZone">
+  <data key="d0"></data>
+  <data key="d1">rail3:WorkZone</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="railML">
+  <data key="d0"></data>
+  <data key="d1">rail3:railML</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="metadata">
+  <data key="d0"></data>
+  <data key="d1">rail3:Metadata</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="common">
+  <data key="d0"></data>
+  <data key="d1">rail3:Common</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="infrastructure">
+  <data key="d0"></data>
+  <data key="d1">rail3:Infrastructure</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="interlocking">
+  <data key="d0"></data>
+  <data key="d1">rail3:Interlocking</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="rollingstock">
+  <data key="d0"></data>
+  <data key="d1">rail3:Rollingstock</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="timetable">
+  <data key="d0"></data>
+  <data key="d1">rail3:Timetable</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="visualizations">
+  <data key="d0"></data>
+  <data key="d1">rail3:Visualizations</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="manufacturer">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehicleManufacturerRS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="owner">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehicleOwnerRS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operator">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehicleOperatorRS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="keeper">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehicleKeeperRS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="vehicleBrakes">
+  <data key="d0"></data>
+  <data key="d1">rail3:tBrakeSystem</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="brakeEffort">
+  <data key="d0"></data>
+  <data key="d1">rail3:Curve</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="decelerationTable">
+  <data key="d0"></data>
+  <data key="d1">rail3:Curve</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="info">
+  <data key="d0"></data>
+  <data key="d1">rail3:TractionInfo</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="details">
+  <data key="d0"></data>
+  <data key="d1">rail3:TractionDetails</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="powerMode">
+  <data key="d0"></data>
+  <data key="d1">rail3:TractionMode</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainOrder">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainOrder</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainEngine">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainEngine</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainBrakes">
+  <data key="d0"></data>
+  <data key="d1">rail3:tBrakeSystem</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isSupportingTilting">
+  <data key="d0"></data>
+  <data key="d1">rail3:TiltingSpecification</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainResistance">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrainDrivingResistance</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="formation">
+  <data key="d0"></data>
+  <data key="d1">rail3:Formation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="vehicles">
+  <data key="d0"></data>
+  <data key="d1">rail3:Vehicles</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="formations">
+  <data key="d0"></data>
+  <data key="d1">rail3:Formations</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tractiveEffort">
+  <data key="d0"></data>
+  <data key="d1">rail3:Curve</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tractionData">
+  <data key="d0"></data>
+  <data key="d1">rail3:Traction</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="daviesFormulaFactors">
+  <data key="d0"></data>
+  <data key="d1">rail3:DaviesFormula</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tractionMode">
+  <data key="d0"></data>
+  <data key="d1">rail3:TractionMode</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="vehiclePart">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehiclePart</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="engine">
+  <data key="d0"></data>
+  <data key="d1">rail3:Engine</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="brakes">
+  <data key="d0"></data>
+  <data key="d1">rail3:Brakes</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="administrativeData">
+  <data key="d0"></data>
+  <data key="d1">rail3:AdministrativeData</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="drivingResistance">
+  <data key="d0"></data>
+  <data key="d1">rail3:DrivingResistance</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="speedProfileRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:SpeedProfileRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="supportedTrackGauge">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackGaugeRS</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="passengerFacilities">
+  <data key="d0"></data>
+  <data key="d1">rail3:PassengerFacilities</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="freightFacilities">
+  <data key="d0"></data>
+  <data key="d1">rail3:FreightFacilities</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="vehicle">
+  <data key="d0"></data>
+  <data key="d1">rail3:Vehicle</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="associatedNetElement">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_AssociatedNetElement</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="geometricCoordinateBegin">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_GeometricCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="geometricCoordinateEnd">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_GeometricCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linearCoordinateBegin">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_LinearCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linearCoordinateEnd">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_LinearCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="intrinsicCoordinate">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_IntrinsicCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="elementCollectionOrdered">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_OrderedCollection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="elementCollectionUnordered">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_UnorderedCollection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linearCoordinate">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_LinearCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="geometricCoordinate">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_GeometricCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="networkResource">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="anchor">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_LinearAnchorPoint</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="areaLocation">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_AreaLocation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linearLocation">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_LinearLocation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="spotLocation">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_SpotLocation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="elementCollection">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_UnorderedCollection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connector">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalConnectionConnector</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="element">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="level">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_LevelNetwork</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="elementPart">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="associatedPositioningSystem">
+  <data key="d0"></data>
+  <data key="d1">rail3:RTM_AssociatedPositioningSystem</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="elementA">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="elementB">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activityTrainReverse">
+  <data key="d0"></data>
+  <data key="d1">rail3:ActivityTrainReverse</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activityLoad">
+  <data key="d0"></data>
+  <data key="d1">rail3:ActivityLoad</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activityRollingStock">
+  <data key="d0"></data>
+  <data key="d1">rail3:ActivityRollingStock</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activityOther">
+  <data key="d0"></data>
+  <data key="d1">rail3:ActivityOther</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activities">
+  <data key="d0"></data>
+  <data key="d1">rail3:Activities</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="passengerTextInfos">
+  <data key="d0"></data>
+  <data key="d1">rail3:PassengerTextInfos</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="announcements">
+  <data key="d0"></data>
+  <data key="d1">rail3:Announcements</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="origin">
+  <data key="d0"></data>
+  <data key="d1">rail3:OriginDestinationInfo</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="destination">
+  <data key="d0"></data>
+  <data key="d1">rail3:OriginDestinationInfo</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="additionalStopInfo">
+  <data key="d0"></data>
+  <data key="d1">rail3:ExtendedAdditionalStopInfo</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="variant">
+  <data key="d0"></data>
+  <data key="d1">rail3:AnnouncementVariant</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="mediaCategories">
+  <data key="d0"></data>
+  <data key="d1">rail3:MediaCategories</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="announcementRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:AnnouncementRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="announcement">
+  <data key="d0"></data>
+  <data key="d1">rail3:Announcement</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="textToSpeechTemplate">
+  <data key="d0"></data>
+  <data key="d1">rail3:TextToSpeechTemplate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="audioFragment">
+  <data key="d0"></data>
+  <data key="d1">rail3:AudioFragment</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="previousActivities">
+  <data key="d0"></data>
+  <data key="d1">rail3:PreviousActivities</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="baseItinerary">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaseItinerary</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="baseItineraryPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaseItineraryPoint</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="followupSections">
+  <data key="d0"></data>
+  <data key="d1">rail3:FollowupSectionsTT</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:OrderedRangedTrackRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="pass">
+  <data key="d0"></data>
+  <data key="d1">rail3:PassInfo</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="stop">
+  <data key="d0"></data>
+  <data key="d1">rail3:ExternalReferenceStop</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="successor">
+  <data key="d0"></data>
+  <data key="d1">rail3:BlockConnectionBlockRefTo</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="blockConnection">
+  <data key="d0"></data>
+  <data key="d1">rail3:BlockConnection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="category">
+  <data key="d0"></data>
+  <data key="d1">rail3:Category</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="categoryRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:CategoryRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="feeder">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalConnectionFeeder</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="commercialTrainReference">
+  <data key="d0"></data>
+  <data key="d1">rail3:CommercialTrainVariantReference</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="externalTrainReference">
+  <data key="d0"></data>
+  <data key="d1">rail3:ExternalTrainReference</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="commercialConnection">
+  <data key="d0"></data>
+  <data key="d1">rail3:CommercialConnection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalRange">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalRange</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="commercialScheduling">
+  <data key="d0"></data>
+  <data key="d1">rail3:CommercialScheduling</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="commercialTrainVariant">
+  <data key="d0"></data>
+  <data key="d1">rail3:CommercialTrainVariant</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="commercialTrain">
+  <data key="d0"></data>
+  <data key="d1">rail3:CommercialTrain</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="range">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackSection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isCancelled">
+  <data key="d0"></data>
+  <data key="d1">rail3:CancellationInfo</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isOnRequest">
+  <data key="d0"></data>
+  <data key="d1">rail3:IsOnRequest</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="transportServiceRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:TransportServiceReference</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="categoryRefs">
+  <data key="d0"></data>
+  <data key="d1">rail3:CategoryRefs</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="additionalStopInfos">
+  <data key="d0"></data>
+  <data key="d1">rail3:AdditionalStopInfos</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="identifiers">
+  <data key="d0"></data>
+  <data key="d1">rail3:RangedIdentifiers</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="commercialTrainSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:CommercialTrainSection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="startPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:LocationInfo</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="transferPoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:TransferLocation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="transferRelation">
+  <data key="d0"></data>
+  <data key="d1">rail3:ConnectionTransferTime</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="timePeriodRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="timetableScenarioRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:tElementWithIDref</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectionTransferTime">
+  <data key="d0"></data>
+  <data key="d1">rail3:ConnectionTransferTimeForOP</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="passingTime">
+  <data key="d0"></data>
+  <data key="d1">rail3:Time</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="locationRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:LocationReference</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="externalTrainNumber">
+  <data key="d0"></data>
+  <data key="d1">rail3:ExternalTrainNumber</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="tafTapTsiId">
+  <data key="d0"></data>
+  <data key="d1">rail3:TafTapTsiId</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="train">
+  <data key="d0"></data>
+  <data key="d1">rail3:ExternalReferenceTrain</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="followupSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:FollowupSectionTT</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalPointSequence">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalPointSequence</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackSequence">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackSequence</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="identifier">
+  <data key="d0"></data>
+  <data key="d1">gml4rail3:CodeWithAuthorityType</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="additionalRunTime">
+  <data key="d0"></data>
+  <data key="d1">rail3:AdditionalRunTime</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="overridingMaxSpeed">
+  <data key="d0"></data>
+  <data key="d1">rail3:OverridingMaxSpeed</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="itinerary">
+  <data key="d0"></data>
+  <data key="d1">rail3:Itinerary</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="mediaCategory">
+  <data key="d0"></data>
+  <data key="d1">rail3:MediaCategory</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="textFragments">
+  <data key="d0"></data>
+  <data key="d1">rail3:TextFragments</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="audioFragments">
+  <data key="d0"></data>
+  <data key="d1">rail3:AudioFragments</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="startLocation">
+  <data key="d0"></data>
+  <data key="d1">rail3:LocationRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="endLocation">
+  <data key="d0"></data>
+  <data key="d1">rail3:LocationRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isCrewDependency">
+  <data key="d0"></data>
+  <data key="d1">rail3:CrewDependencyDescription</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isTripDependency">
+  <data key="d0"></data>
+  <data key="d1">rail3:TripDependencyDescription</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalTrainReference">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalTrainVariantReference</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalConnection">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalConnection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="opRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:OpRefWithTracks</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalTrainVariant">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalTrainVariant</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalTrain">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalTrain</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalTrainSectionPart">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalTrainSectionPart</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="formationInformation">
+  <data key="d0"></data>
+  <data key="d1">rail3:FormationInformation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="equipmentInformation">
+  <data key="d0"></data>
+  <data key="d1">rail3:EquipmentInformation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="itineraryRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:ItineraryRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="movementSketch">
+  <data key="d0"></data>
+  <data key="d1">rail3:MovementSketch</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalTrainSection">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalTrainSection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="mediaResources">
+  <data key="d0"></data>
+  <data key="d1">rail3:MediaResources</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="text">
+  <data key="d0"></data>
+  <data key="d1">rail3:TextFragment</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="passengerTextInfoRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:PassengerTextInfoRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="passengerTextInfo">
+  <data key="d0"></data>
+  <data key="d1">rail3:PassengerTextInfo</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="referencePoint">
+  <data key="d0"></data>
+  <data key="d1">rail3:StoppingPlaceRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="platformEdgeRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:PlatformEdgeRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="activityRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:ActivityRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="rule">
+  <data key="d0"></data>
+  <data key="d1">rail3:RuntimeReserveCalculationRule</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="timeBasedRule">
+  <data key="d0"></data>
+  <data key="d1">rail3:TimeBasedCalculationRule</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="reserve">
+  <data key="d0"></data>
+  <data key="d1">rail3:RuntimeReserve</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="minimalTime">
+  <data key="d0"></data>
+  <data key="d1">rail3:MinimalTime</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackRefs">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackRefs</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="lineRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:LineRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="routeRefs">
+  <data key="d0"></data>
+  <data key="d1">rail3:RouteRefs</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="reserves">
+  <data key="d0"></data>
+  <data key="d1">rail3:RuntimeReserves</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="platformEdgeRefs">
+  <data key="d0"></data>
+  <data key="d1">rail3:PlatformEdgeRefs</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="stoppingPlaceRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:StoppingPlaceRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isCommercial">
+  <data key="d0"></data>
+  <data key="d1">rail3:Commercial</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isOperationalIM">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalIM</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isOperationalRU">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalRU</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="temporaryRestrictionAreaRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:TemporaryRestrictionAreaRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="responsibilityInfo">
+  <data key="d0"></data>
+  <data key="d1">rail3:NaturalLanguageText</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="responsibleOrganizationalUnit">
+  <data key="d0"></data>
+  <data key="d1">rail3:TemporaryRestrictionResponsibility</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="driverMessage">
+  <data key="d0"></data>
+  <data key="d1">rail3:NaturalLanguageText</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="etcsInfo">
+  <data key="d0"></data>
+  <data key="d1">rail3:RestrictionEtcsInfo</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="restrictedPath">
+  <data key="d0"></data>
+  <data key="d1">rail3:FunctionalInfrastructureLocation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="condition">
+  <data key="d0"></data>
+  <data key="d1">rail3:TemporaryRestrictionAreaCondition</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="indicatedByBalise">
+  <data key="d0"></data>
+  <data key="d1">rail3:AreaIndicationByBalise</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="indicatedByBoard">
+  <data key="d0"></data>
+  <data key="d1">rail3:AreaIndicationByBoard</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="indicatedByDriversTimetable">
+  <data key="d0"></data>
+  <data key="d1">rail3:AreaIndicationDriversTimetable</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="capacityIsReduced">
+  <data key="d0"></data>
+  <data key="d1">rail3:ImpactSequence</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trackIsClosed">
+  <data key="d0"></data>
+  <data key="d1">rail3:TrackClosure</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="electrificationUnavailable">
+  <data key="d0"></data>
+  <data key="d1">rail3:ElectrificationUnavailable</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="currentLimitation">
+  <data key="d0"></data>
+  <data key="d1">rail3:LimitedCurrent</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="loadSpecification">
+  <data key="d0"></data>
+  <data key="d1">rail3:LoadSpecification</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="temporaryRestrictionArea">
+  <data key="d0"></data>
+  <data key="d1">rail3:TemporaryRestrictionArea</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="temporaryRestrictionOperation">
+  <data key="d0"></data>
+  <data key="d1">rail3:TemporaryRestrictionOperation</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="restriction">
+  <data key="d0"></data>
+  <data key="d1">rail3:TemporaryRestriction</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="areas">
+  <data key="d0"></data>
+  <data key="d1">rail3:TemporaryRestrictionAreas</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operations">
+  <data key="d0"></data>
+  <data key="d1">rail3:TemporaryRestrictionOperations</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="textFragment">
+  <data key="d0"></data>
+  <data key="d1">rail3:TextFragment</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="arrival">
+  <data key="d0"></data>
+  <data key="d1">rail3:Time</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="departure">
+  <data key="d0"></data>
+  <data key="d1">rail3:Time</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="timetableScenarios">
+  <data key="d0"></data>
+  <data key="d1">rail3:TimetableScenarios</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="validities">
+  <data key="d0"></data>
+  <data key="d1">rail3:Validities</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="categories">
+  <data key="d0"></data>
+  <data key="d1">rail3:Categories</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="baseItineraries">
+  <data key="d0"></data>
+  <data key="d1">rail3:BaseItineraries</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="itineraries">
+  <data key="d0"></data>
+  <data key="d1">rail3:ItinerariesTT</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalTrains">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalTrains</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="commercialTrains">
+  <data key="d0"></data>
+  <data key="d1">rail3:CommercialTrains</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="commercialSchedulings">
+  <data key="d0"></data>
+  <data key="d1">rail3:CommercialSchedulings</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operationalConnections">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalConnections</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="commercialConnections">
+  <data key="d0"></data>
+  <data key="d1">rail3:CommercialConnections</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="connectionTransferTimes">
+  <data key="d0"></data>
+  <data key="d1">rail3:ConnectionTransferTimes</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="transportServices">
+  <data key="d0"></data>
+  <data key="d1">rail3:TransportServices</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="vehicleRosterings">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehicleRosterings</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="temporaryRestrictions">
+  <data key="d0"></data>
+  <data key="d1">rail3:TemporaryRestrictions</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="timetableScenario">
+  <data key="d0"></data>
+  <data key="d1">rail3:TimetableScenario</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="transportService">
+  <data key="d0"></data>
+  <data key="d1">rail3:TransportService</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="bitmaskValidity">
+  <data key="d0"></data>
+  <data key="d1">rail3:BitmaskValidity</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="operatingDayValidity">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperatingDayValidity</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="blocks">
+  <data key="d0"></data>
+  <data key="d1">rail3:WorkTaskBlocks</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="blockConnections">
+  <data key="d0"></data>
+  <data key="d1">rail3:BlockConnections</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="vehicleRostering">
+  <data key="d0"></data>
+  <data key="d1">rail3:VehicleRostering</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="cleaning">
+  <data key="d0"></data>
+  <data key="d1">rail3:Cleaning</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="inspection">
+  <data key="d0"></data>
+  <data key="d1">rail3:Inspection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="loading">
+  <data key="d0"></data>
+  <data key="d1">rail3:Loading</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="maintenance">
+  <data key="d0"></data>
+  <data key="d1">rail3:Maintenance</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainSectionPartRef">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalTrainSectionPartRef</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="trainSketch">
+  <data key="d0"></data>
+  <data key="d1">rail3:OperationalTrainSketch</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="parking">
+  <data key="d0"></data>
+  <data key="d1">rail3:Parking</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="preHeating">
+  <data key="d0"></data>
+  <data key="d1">rail3:PreHeating</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="refueling">
+  <data key="d0"></data>
+  <data key="d1">rail3:Refueling</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="shunting">
+  <data key="d0"></data>
+  <data key="d1">rail3:Shunting</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="shutDown">
+  <data key="d0"></data>
+  <data key="d1">rail3:ShutDown</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="standBy">
+  <data key="d0"></data>
+  <data key="d1">rail3:StandBy</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="startUp">
+  <data key="d0"></data>
+  <data key="d1">rail3:StartUp</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="block">
+  <data key="d0"></data>
+  <data key="d1">rail3:WorkTask</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="coordinate">
+  <data key="d0"></data>
+  <data key="d1">rail3:ProjectionCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="usesSymbol">
+  <data key="d0"></data>
+  <data key="d1">rail3:ElementProjectionSymbol</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="isLocatedAt">
+  <data key="d0"></data>
+  <data key="d1">rail3:ProjectionCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="center">
+  <data key="d0"></data>
+  <data key="d1">rail3:ProjectionCoordinate</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="areaElementProjection">
+  <data key="d0"></data>
+  <data key="d1">rail3:AreaProjection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="ellipticalProjection">
+  <data key="d0"></data>
+  <data key="d1">rail3:EllipticalProjection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="linearElementProjection">
+  <data key="d0"></data>
+  <data key="d1">rail3:LinearProjection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="spotElementProjection">
+  <data key="d0"></data>
+  <data key="d1">rail3:SpotProjection</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="infrastructureVisualization">
+  <data key="d0"></data>
+  <data key="d1">rail3:InfrastructureVisualization</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="infrastructureVisualizations">
+  <data key="d0"></data>
+  <data key="d1">rail3:InfrastructureVisualizations</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="posList">
+  <data key="d0"></data>
+  <data key="d1">gml4rail3:DirectPositionListType</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="pos">
+  <data key="d0"></data>
+  <data key="d1">gml4rail3:DirectPositionType</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="descriptionReference">
+  <data key="d0"></data>
+  <data key="d1">gml4rail3:ReferenceType</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<node id="description">
+  <data key="d0"></data>
+  <data key="d1">gml4rail3:StringOrRefType</data>
+  <data key="d2">3.3 SR1</data>
+</node>
+<edge source="railML" target="metadata">
+  <data key="d3">part_of</data>
+</edge>
+<edge source="railML" target="common">
+  <data key="d3">part_of</data>
+</edge>
+<edge source="railML" target="infrastructure">
+  <data key="d3">part_of</data>
+</edge>
+<edge source="railML" target="interlocking">
+  <data key="d3">part_of</data>
+</edge>
+<edge source="railML" target="rollingstock">
+  <data key="d3">part_of</data>
+</edge>
+<edge source="railML" target="timetable">
+  <data key="d3">part_of</data>
+</edge>
+<edge source="railML" target="visualizations">
+  <data key="d3">part_of</data>
+</edge>
+</graph></graphml>

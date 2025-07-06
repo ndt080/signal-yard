@@ -1,0 +1,71 @@
+PROJECT SPECIFICATION — railML GraphML Generator
+------------------------------------------------
+
+Context:
+--------
+This project aims to implement a utility for building a knowledge graph from the official `railML 3.3 SR1` specification. The graph will be used to initialize an MCP server via a PathRAG pipeline.
+Domain: Railway infrastructure, interlocking systems, vehicles, and operations.
+
+Goal:
+-----
+Generate a `.graphml` file containing:
+- Nodes representing railML entities (infrastructure components, rolling stock, signaling systems, etc.)
+- Edges representing structural or logical relationships between those entities
+- Each node and edge must include a `description` field extracted from the documentation
+
+Input:
+------
+Structured folder containing official railML schema and documentation:
+- Folder: `railML-3.3-SR1`
+- Subfolders:
+  - `documentation/model/*`: HTML, JS, and other resources per subsystem
+  - `source/schema/*`: XML schema definitions (railML elements, types, relationships)
+  - Additional supporting data: `codelists`, `railml3_diagrams`, etc.
+
+Output:
+-------
+Single `.graphml` file with:
+- Nodes for each significant railML schema class or element
+- Edges for relations like "connected_to", "part_of", "controls", etc.
+- `description` field per node/edge with human-readable explanation (from documentation)
+- Optional extra fields: `region`, `railML version`, `elementType`, etc.
+
+Implementation Requirements:
+----------------------------
+- Language: Python or JavaScript (Node.js)
+- Suggested structure:
+  - `schema_parser.py` – for reading XML schema
+  - `doc_extractor.py` – for scraping text/descriptions from HTML/JS files
+  - `graph_builder.py` – for assembling and exporting `.graphml`
+
+Optional: LLM Usage for Semantic Enrichment
+-------------------------------------------
+If needed, integrate an LLM to extract and normalize natural language descriptions from HTML/JS sources.
+
+Recommended local setup:
+- Use [Ollama](https://ollama.com/) to run models like:
+  - `phi-4-reasoning`
+  - `deepseek-coder`
+- Hardware:
+  - CPU: AMD Ryzen 5 5600X
+  - RAM: 32 GB
+  - GPU: NVIDIA RTX 3070
+
+Fallback option:
+- If local inference is not sufficient, allow saving intermediate data to a `.txt` or `.json` file
+- Use this file as a prompt input in a cloud-based LLM (e.g., ChatGPT)
+
+Command-line Example:
+---------------------
+```
+generate-graphml --input ./railML-3.3-SR1 --output ./rail_infrastructure.graphml
+```
+
+Notes:
+------
+- Output `.graphml` must be valid and compatible with visualization tools such as yEd or Gephi.
+- Pay attention to subfolder structure within `documentation/model/` – each domain (e.g. infrastructure, interlocking) may use different formats for storing text descriptions.
+- Descriptions can be extracted from HTML tooltips, inner text of diagrams, or JavaScript-embedded strings in `guidmaps`.
+
+------------------------------------------------
+End of specification
