@@ -10,9 +10,10 @@ import re
 import numpy as np
 from sklearn.cluster import AgglomerativeClustering
 
-# === NLP и embedding-модель ===
-nlp = spacy.load("en_core_web_sm")
-model = SentenceTransformer("all-MiniLM-L6-v2")
+# === NLP and embedding-model ===
+spacy.prefer_gpu()  # Use GPU if possible
+nlp = spacy.load("en_core_web_lg")  # or "en_core_web_trf"
+model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
 
 SIMILARITY_THRESHOLD = 0.9
 

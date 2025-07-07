@@ -34,10 +34,10 @@ To use this tool, set up your environment by installing the required dependencie
 2. **Download spaCy Model**:
 
    ```bash
-   python -m spacy download en_core_web_sm
+   python -m spacy download en_core_web_lg
    ```
 
-   The `en_core_web_sm` model is a small English language model for spaCy, providing efficient tokenization and entity recognition. Larger models can be used for improved accuracy if needed.
+   The `en_core_web_lg` model is a small English language model for spaCy, providing efficient tokenization and entity recognition. Larger models can be used for improved accuracy if needed.
 
 ## Usage
 
