@@ -3,10 +3,12 @@ import networkx as nx
 from pathlib import Path
 import uuid
 from collections import defaultdict
-from sentence_transformers import SentenceTransformer, util
+from sentence_transformers import SentenceTransformer
 import spacy
 import yaml
 import re
+import numpy as np
+from sklearn.cluster import AgglomerativeClustering
 
 # === NLP и embedding-модель ===
 nlp = spacy.load("en_core_web_sm")
@@ -14,21 +16,40 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 
 SIMILARITY_THRESHOLD = 0.85
 
+
 def parse_glossary_file(filepath: Path):
     """Парсит YAML header + строки формата TERM — DEFINITION"""
     with open(filepath, encoding="utf-8") as f:
-        content = f.read()
+        lines = f.readlines()
 
-    # Разделяем header и тело
-    header_match = re.match(r"^---\s*(.*?)\s*---\s*(.*)", content, re.DOTALL)
-    if not header_match:
-        raise ValueError(f"❌ Header not found in {filepath.name}")
+    # === Фаза 1: Определяем YAML-блок ===
+    if not lines or lines[0].strip() != '---':
+        raise ValueError(f"❌ YAML header must start with '---' in {filepath.name}")
 
-    yaml_part, body = header_match.groups()
-    meta = yaml.safe_load(yaml_part)
+    yaml_lines = []
+    body_lines = []
+    inside_yaml = True
 
+    for line in lines[1:]:
+        if inside_yaml:
+            if line.strip() == '---':
+                inside_yaml = False
+            else:
+                yaml_lines.append(line)
+        else:
+            body_lines.append(line)
+
+    if inside_yaml:
+        raise ValueError(f"❌ Missing closing '---' for YAML header in {filepath.name}")
+
+    try:
+        meta = yaml.safe_load("".join(yaml_lines))
+    except yaml.YAMLError as e:
+        raise ValueError(f"❌ YAML parsing failed in {filepath.name}: {e}")
+
+    # === Фаза 2: Парсинг тела ===
     entries = []
-    for line in body.splitlines():
+    for line in body_lines:
         if not line.strip() or "—" not in line:
             continue
         term, definition = map(str.strip, line.split("—", 1))
@@ -36,9 +57,11 @@ def parse_glossary_file(filepath: Path):
 
     return meta, entries
 
+
 def build_graph(input_dir: Path, output_file: Path):
     G = nx.MultiDiGraph()
-    term_nodes = defaultdict(list)
+    all_definitions = []
+    all_nodes = []
 
     print(f"📁 Scanning {input_dir} for glossary files...")
     for file in input_dir.rglob("*.txt"):
@@ -59,53 +82,43 @@ def build_graph(input_dir: Path, output_file: Path):
                        lastUpdated=meta.get("lastUpdated", ""),
                        title=meta.get("title", ""),
                        regions=", ".join(meta.get("regions", [])))
-            term_nodes[term].append((uid, definition))
+            all_definitions.append(definition)
+            all_nodes.append(uid)
 
-    # === Семантическое схлопывание ===
-    print("🔄 Semantic deduplication...")
-    for term, nodes in term_nodes.items():
-        if len(nodes) <= 1:
+    # === Семантическое схлопывание (кластеризация) ===
+    print("🔄 Semantic deduplication via clustering...")
+    embeddings = model.encode(all_definitions)
+    clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=1 - SIMILARITY_THRESHOLD,
+                                         metric='cosine', linkage='average')
+    labels = clustering.fit_predict(embeddings)
+
+    clustered = defaultdict(list)
+    for label, uid in zip(labels, all_nodes):
+        clustered[label].append(uid)
+
+    for cluster_nodes in clustered.values():
+        if len(cluster_nodes) <= 1:
             continue
-
-        embeddings = model.encode([d for _, d in nodes], convert_to_tensor=True)
-        to_merge = {}
-        for i in range(len(nodes)):
-            if nodes[i][0] in to_merge:
-                continue
-            for j in range(i + 1, len(nodes)):
-                if nodes[j][0] in to_merge:
-                    continue
-                score = util.cos_sim(embeddings[i], embeddings[j]).item()
-                if score > SIMILARITY_THRESHOLD:
-                    id_i, _ = nodes[i]
-                    id_j, _ = nodes[j]
-                    for u, v, k, data in list(G.in_edges(id_j, keys=True, data=True)):
-                        G.add_edge(u, id_i, **data)
-                    for u, v, k, data in list(G.out_edges(id_j, keys=True, data=True)):
-                        G.add_edge(id_i, v, **data)
-                    to_merge[id_j] = id_i
-                    G.remove_node(id_j)
-
-        remaining = [n[0] for n in nodes if n[0] not in to_merge]
-        for i in range(len(remaining) - 1):
-            G.add_edge(remaining[i], remaining[i + 1], label="variant_of")
+        root = cluster_nodes[0]
+        for other in cluster_nodes[1:]:
+            G.add_edge(other, root, label="variant_of")
 
     # === NLP-связи ===
     print("🔍 Linking related definitions...")
     node_list = [(n, d) for n, d in G.nodes(data=True) if "definition" in d]
     for i, (nid1, data1) in enumerate(node_list):
         doc1 = nlp(data1["definition"])
+        ents1 = {tok.text for tok in doc1.ents if tok.label_ in ("ORG", "PRODUCT", "EVENT", "GPE")}
         for j in range(i + 1, len(node_list)):
             nid2, data2 = node_list[j]
-            doc2 = nlp(data2["definition"])
-            if any(tok.text in data2["definition"]
-                   for tok in doc1.ents if tok.label_ in ("ORG", "PRODUCT", "EVENT", "GPE")):
+            if any(ent in data2["definition"] for ent in ents1):
                 G.add_edge(nid1, nid2, label="related_to")
 
     # === Экспорт ===
     output_file.parent.mkdir(parents=True, exist_ok=True)
     nx.write_graphml(G, output_file)
     print(f"✅ Graph saved to {output_file}")
+
 
 # === CLI ===
 if __name__ == "__main__":
