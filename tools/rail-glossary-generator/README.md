@@ -1,7 +1,3 @@
-Below is the translated, refactored, and expanded version of the `README.md` file from Russian to English. The content has been rephrased for clarity and supplemented with detailed information to make the documentation comprehensive and user-friendly. I've included explanations of the technologies used and their purposes to enhance understanding.
-
----
-
 # Railway Glossary .graphml File Generator
 
 ## Overview
