@@ -1,10 +1,13 @@
-# Railway Glossary .graphml File Generator
+# Glossary .graphml File Generator
 
 ## Overview
 
-This tool generates a `.graphml` file that encapsulates a graph of railway industry-specific terms, jargon, and abbreviations, along with their definitions and interconnections. The `.graphml` format, an XML-based structure, is chosen for its ability to represent relationships between terms efficiently. This approach ensures a universal, scalable, and easily updatable repository of domain knowledge, which is essential for enriching the contextual understanding of language models tailored to industrial applications.
-
-The resulting `.graphml` file is designed for future integration into the **PathRAG pipeline** within the **MCP server**, a system dedicated to managing and querying industrial data. This enables advanced retrieval and analysis of railway terminology for various use cases.
+This tool generates a `.graphml` file that encapsulates a graph of railway industry-specific terms, jargon, and abbreviations, 
+along with their definitions and interconnections. The `.graphml` format, an XML-based structure, is chosen for its ability to represent 
+relationships between terms efficiently. This approach ensures a universal, scalable, and easily updatable repository of domain knowledge, 
+which is essential for enriching the contextual understanding of language models tailored to industrial applications.
+The resulting `.graphml` file is designed for future integration into the **PathRAG pipeline** within the **MCP server**, 
+a system dedicated to managing and querying industrial data. This enables advanced retrieval and analysis of railway terminology for various use cases.
 
 ## Technologies Used
 
@@ -88,22 +91,6 @@ Below the header, each line represents a single term or abbreviation and its def
 
 - `Locomotive — A self-propelled vehicle used for pulling trains` defines "Locomotive" as a term related to a specific railway system.
 
-### Example File
-
-```
----
-title: "Railway Terminology"
-sourceName: "Railway Industry Association"
-sourceUrl: "https://www.ria.org/glossary"
-regions:
-  - "UK"
-lastUpdated: "2025-07-06"
-collectedBy: "A. Piatrou"
----
-
-Locomotive — A self-propelled vehicle used for pulling trains.
-```
-
 ## Graph Construction Process
 
 The tool follows these steps to transform raw glossary files into a `.graphml` graph:
@@ -113,6 +100,16 @@ The tool follows these steps to transform raw glossary files into a `.graphml` g
 3. **Semantic Deduplication**: Uses Sentence Transformers to generate embeddings of definitions and applies Agglomerative Clustering to identify similar entries. Variants are linked with "variant_of" edges.
 4. **Relationship Linking**: Employs spaCy to detect named entities in definitions, connecting terms that share entities with "related_to" edges.
 5. **Export**: Saves the graph as a `.graphml` file using NetworkX, ready for use in other systems.
+
+## Handling Duplicates
+
+Given the diverse sources of glossary data, terms may appear multiple times with varying definitions. The tool employs 
+a sophisticated approach to handle duplicates, ensuring the graph remains concise yet comprehensive:
+
+- **Context-Dependent Duplicates**: When a term has distinct meanings depending on the context (e.g., "track" as a physical railway component versus a monitoring system), each meaning is preserved as a separate node in the graph. These nodes may be linked with "related_to" edges if they share relevant entities, maintaining their contextual distinctions.
+- **Semantically Similar Duplicates**: When definitions of a term are similar but differ slightly in wording (e.g., "Locomotive: A vehicle that pulls trains" versus "Locomotive: A self-propelled train engine"), the tool uses **Sentence Transformers** to generate semantic embeddings of the definitions. These embeddings are clustered using **Agglomerative Clustering** with a cosine similarity threshold (default: 0.9). Similar definitions are merged into a single representative node, with other nodes linked to it via "variant_of" edges to indicate equivalence.
+
+This dual approach ensures that meaningful variations are retained while redundant rephrasings are consolidated, optimizing the graph for both accuracy and efficiency.
 
 ## Customization Options
 
@@ -127,4 +124,4 @@ The tool follows these steps to transform raw glossary files into a `.graphml` g
 
 ## License
 
-This project is licensed under the Apache License v.2 License. See the [LICENSE](../../LICENSE) file for details.
+This project is licensed under the Apache License v2. See the [LICENSE](../../LICENSE) file for details.
